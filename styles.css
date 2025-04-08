@@ -1,0 +1,21 @@
+/* css styles */
+h1,h2,h3,h4,h5,h6 {
+  color: #64e5f4 !important;
+}
+
+/* Cambiar el fondo de la barra de navegación a verde claro */
+.navbar {
+  background-color: #8bc34a !important; /* Fondo verde claro */
+}
+
+/* Cambiar el color del texto de los enlaces de navegación */
+.navbar .navbar-nav .nav-link {
+  color: white !important; /* Texto blanco */
+}
+
+/* Efecto hover para los enlaces */
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #64e5f4; /* Fondo celeste cuando se pasa el ratón */
+  color: #fff !important; /* Asegura que el texto sea blanco al pasar el mouse */
+}
+
