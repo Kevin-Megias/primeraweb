@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Josep Carreras Leukaemia Research Institute"
+  title: "Instituto contra la Leucemia Josep Carreras"
   navbar:
     left:
       - href: index.qmd

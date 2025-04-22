@@ -1,43 +1,82 @@
 ---
-format: html
-page-layout: full
-theme: cosmo
-toc: true
+format: html 
+theme: cosmo 
 css: styles.css
 ---
 
-# Investigación en Genómica Regulatoria
+# ![](imagenes/minilogo.png){width="55"} Investigación en Genómica Regulatoria
 
-Estudiamos los mecanismos que controlan la expresión génica en distintos tipos celulares y etapas del desarrollo.
+En el **Instituto de Investigación Josep Carreras**, nos centramos en la investigación de la **genómica regulatoria**, un campo clave para entender los mecanismos biológicos subyacentes en enfermedades como la leucemia. Nuestro trabajo explora cómo los **mecanismos de regulación genética** afectan el desarrollo de las enfermedades hematológicas y cómo estos conocimientos pueden ser utilizados para desarrollar terapias más eficaces.
 
-## Visión general
+------------------------------------------------------------------------
 
-Nuestro grupo de investigación se centra en comprender cómo los elementos reguladores del genoma, como los potenciadores, promotores y factores de transcripción, interactúan para controlar los programas de expresión génica. A través de un enfoque multidisciplinario que combina biología computacional, tecnologías de secuenciación de alto rendimiento y genómica funcional, buscamos descifrar la lógica reguladora que define la identidad celular y contribuye a distintas enfermedades.
+## Áreas de Investigación
 
-## Proyectos actuales
+Nuestra investigación en genómica regulatoria se centra en varios pilares que son fundamentales para avanzar en el tratamiento de enfermedades hematológicas:
 
-\- Mapeo de accesibilidad a la cromatina en células hematopoyéticas
+### **1. Mecanismos de Regulación Genética**
 
-\- Identificación de variantes no codificantes asociadas a trastornos autoinmunes
+Estudiamos cómo los **factores de transcripción**, **modificaciones epigenéticas** y otras herramientas de regulación genética afectan la **expresión génica** y, por lo tanto, el desarrollo de células leucémicas.
 
-\- Predicción de interacciones potenciador-promotor mediante aprendizaje automático
+### **2. Regulación en Células Madre Hematopoyéticas**
 
-\- Validación funcional con sistemas CRISPR de interferencia y activación
+Las células madre hematopoyéticas tienen un papel crucial en la formación de células sanguíneas. Nuestro equipo investiga cómo los defectos en los mecanismos reguladores de estas células pueden llevar a la leucemia.
 
-## Métodos y tecnologías
+### **3. MicroARNs y Regulación Genética**
 
-Utilizamos tecnologías de vanguardia como:
+Los **microARNs** juegan un papel clave en la regulación de la expresión génica. Estamos investigando cómo los cambios en la regulación de microARNs pueden influir en la progresión de la leucemia y otras enfermedades hematológicas.
 
-\- ATAC-seq, ChIP-seq y RNA-seq
+------------------------------------------------------------------------
 
-\- Genómica de célula única
+## Proyectos Destacados
 
-\- Modelos de aprendizaje profundo para predecir elementos reguladores
+Estamos desarrollando varios proyectos de investigación en genómica regulatoria, cada uno de los cuales explora diferentes aspectos de la regulación genética en las células sanguíneas.
 
-\- Edición genómica para ensayos funcionales
+-   [**Proyecto A: Regulación Genética en Leucemia Mieloide Aguda**](#)
+-   [**Proyecto B: Terapias Dirigidas por MicroARNs**](#)
+-   [**Proyecto C: Estudio de Células Madre Hematopoyéticas**](#)
 
-## Colaboraciones
+------------------------------------------------------------------------
 
-Colaboramos con consorcios internacionales e instituciones líderes en el campo para avanzar en la investigación en genómica reguladora y traducir nuestros hallazgos en aplicaciones clínicas.
+## Publicaciones Recientes
 
-© 2025 Grupo de Genómica Regulatoria. Todos los derechos reservados.
+Aquí te presentamos algunas de nuestras publicaciones más recientes en el campo de la genómica regulatoria, que son fundamentales para entender mejor las enfermedades hematológicas.
+
+-   [**Estudio sobre los Mecanismos Epigenéticos en Leucemia**](https://link_a_publicacion)
+-   [**MicroARNs como Biomarcadores en Cáncer Hematológico**](https://link_a_publicacion)
+-   [**Estudio sobre Regulación Genética en Células Madre Hematopoyéticas**](https://link_a_publicacion)
+
+------------------------------------------------------------------------
+
+## Colabora con Nosotros
+
+**Tu apoyo es crucial.** Si estás interesado en colaborar en nuestros proyectos de investigación, tanto en términos de financiación como de conocimientos científicos, ¡nos encantaría hablar contigo!
+
+-   [Explorar oportunidades de colaboración](#)
+-   [Descubre cómo donar](#)
+
+------------------------------------------------------------------------
+
+## Contáctanos
+
+**Dirección:**\
+Instituto de Investigación Josep Carreras,\
+Carrer del Dr. Josep Trueta, 3-5,\
+Barcelona, España.
+
+**Correo Electrónico:**\
+contacto\@carrerasresearch.org
+
+------------------------------------------------------------------------
+
+## Síguenos en Redes Sociales
+
+Para estar al tanto de nuestros avances más recientes y unirte a nuestra comunidad, síguenos en nuestras redes sociales:
+
+-   [Twitter](#)
+
+-   [Facebook](#)
+
+-   [LinkedIn](#)
+
+    [![](imagenes/josepcarreras.png){fig-align="left" width="503" height="98"}](https://www.carrerasresearch.org/en/research/regulatory-genomics)
