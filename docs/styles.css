@@ -19,3 +19,14 @@ h1,h2,h3,h4,h5,h6 {
   color: #fff !important; /* Asegura que el texto sea blanco al pasar el mouse */
 }
 
+body {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+main {
+  max-width: 700px;
+  margin: auto;
+  padding: 1rem;
+}
+
