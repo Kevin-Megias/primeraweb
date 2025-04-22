@@ -79,4 +79,4 @@ Para estar al tanto de nuestros avances más recientes y unirte a nuestra comuni
 
 -   [LinkedIn](#)
 
-    [![](imagenes/josepcarreras.png){fig-align="left" width="503" height="98"}](https://www.carrerasresearch.org/en/research/regulatory-genomics)
+    [![](imagenes/josepcarreras.png){fig-align="left" width="304" height="67"}](https://www.carrerasresearch.org/en/research/regulatory-genomics)
