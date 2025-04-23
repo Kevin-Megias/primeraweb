@@ -19,13 +19,6 @@ h1,h2,h3,h4,h5,h6 {
   color: #fff !important; /* Asegura que el texto sea blanco al pasar el mouse */
 }
 
-/* Para que las imágenes se adapten bien */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1em auto;
-}
 
 /* Márgenes laterales suaves en móviles y tablets */
 body {
@@ -36,9 +29,9 @@ body {
 
 /* Para centrar el contenido y limitar el ancho en pantallas grandes */
 main {
-  max-width: 700px;
+  max-width: 1200px;
   margin: auto;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 
