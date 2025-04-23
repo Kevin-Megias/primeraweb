@@ -29,9 +29,10 @@ img {
 
 /* Márgenes laterales suaves en móviles y tablets */
 body {
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
+
 
 /* Para centrar el contenido y limitar el ancho en pantallas grandes */
 main {
