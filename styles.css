@@ -20,6 +20,19 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
+/* Hacer que la página aproveche mejor el ancho */
+.page {
+  max-width: 100%;
+  padding: 0 1rem;
+}
+
+/* Ajustar main para mejor lectura */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
 /* Imágenes adaptables */
 img {
   max-width: 100%;
@@ -28,25 +41,14 @@ img {
   margin: 1em auto;
 }
 
-/* Márgenes globales */
-body {
-  margin: 0; /* Quitamos márgenes en body */
-}
-
-/* Estilo del contenido principal */
-main {
-  max-width: 1200px;
-  margin: auto;
-  padding: 1rem;
-}
-
-/* Corrección para pantallas pequeñas */
+/* Correcciones para pantallas pequeñas */
 @media (max-width: 768px) {
   main {
-    max-width: 95%; /* Ocupa el 95% de la pantalla */
+    max-width: 95%;
     padding: 0.5rem;
   }
 }
+
 
 
 
