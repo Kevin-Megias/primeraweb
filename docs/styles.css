@@ -28,26 +28,35 @@ img {
   margin: 1em auto;
 }
 
-/* Márgenes laterales */
-body {
-  margin-left: 1rem;
-  margin-right: 1rem;
+/* Imágenes adaptables */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
 }
 
-/* Estilo general para el contenido */
+/* Márgenes globales */
+body {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+/* Estilo del contenido principal */
 main {
   max-width: 1200px;
   margin: auto;
   padding: 1rem;
 }
 
-/* ⚡ Corrige el descuadre en móviles */
+/* Corrección para pantallas pequeñas */
 @media (max-width: 768px) {
   main {
-    max-width: 100%;
-    padding: 1rem;
+    max-width: 95%; /* Usa casi todo el ancho */
+    padding: 0.5rem; /* Márgenes más pequeños */
   }
 }
+
 
 
 
