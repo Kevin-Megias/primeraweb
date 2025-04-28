@@ -20,18 +20,34 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
-/* Márgenes laterales suaves en móviles y tablets */
-body {
-  margin-left: 3rem;
-  margin-right: 3rem;
+/* Imágenes adaptativas */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
 }
 
+/* Márgenes laterales */
+body {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
 
-/* Para centrar el contenido y limitar el ancho en pantallas grandes */
+/* Estilo general para el contenido */
 main {
   max-width: 1200px;
   margin: auto;
-  padding: 2rem;
+  padding: 1rem;
 }
+
+/* ⚡ Corrige el descuadre en móviles */
+@media (max-width: 768px) {
+  main {
+    max-width: 100%;
+    padding: 1rem;
+  }
+}
+
 
 
