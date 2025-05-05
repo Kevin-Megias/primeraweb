@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Sobre nosotros
+        text: About
       - href: Publicaciones.qmd
         text: Publicaciones
     right:

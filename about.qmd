@@ -1,3 +1,8 @@
+---
+title: "About"
+format: html
+---
+
 # Acerca del Instituto Josep Carreras
 
 El Instituto de Investigación Josep Carreras es una de las instituciones líderes en la lucha contra la leucemia. Fundado en 2010, nuestro objetivo es avanzar en la investigación médica y científica para el tratamiento de la leucemia y otras enfermedades hematológicas.
