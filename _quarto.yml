@@ -9,8 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
-
+        text: Sobre nosotros
+      - href: Publicaciones.qmd
+        text: Publicaciones
+    right:
+      - icon: twitter
+        text: Twitter
+        href: https://x.com/CarrerasIJC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+      - icon: github
+        text: GitHub
+        href: https://github.com/Kevin-Megias/primeraweb
+    
 format:
   html:
     theme: cosmo
