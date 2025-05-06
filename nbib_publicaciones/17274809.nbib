@@ -1,0 +1,91 @@
+PMID- 17274809
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070719
+LR  - 20240317
+IS  - 1474-760X (Electronic)
+IS  - 1465-6906 (Print)
+IS  - 1474-7596 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2007
+TI  - Parallel evolution of conserved non-coding elements that target a common set of 
+      developmental regulatory genes from worms to humans.
+PG  - R15
+AB  - BACKGROUND: The human genome contains thousands of non-coding sequences that are 
+      often more conserved between vertebrate species than protein-coding exons. These 
+      highly conserved non-coding elements (CNEs) are associated with genes that 
+      coordinate development, and have been proposed to act as transcriptional 
+      enhancers. Despite their extreme sequence conservation in vertebrates, sequences 
+      homologous to CNEs have not been identified in invertebrates. RESULTS: Here we 
+      report that nematode genomes contain an alternative set of CNEs that share 
+      sequence characteristics, but not identity, with their vertebrate counterparts. 
+      CNEs thus represent a very unusual class of sequences that are extremely 
+      conserved within specific animal lineages yet are highly divergent between 
+      lineages. Nematode CNEs are also associated with developmental regulatory genes, 
+      and include well-characterized enhancers and transcription factor binding sites, 
+      supporting the proposed function of CNEs as cis-regulatory elements. Most 
+      remarkably, 40 of 156 human CNE-associated genes with invertebrate orthologs are 
+      also associated with CNEs in both worms and flies. CONCLUSION: A core set of 
+      genes that regulate development is associated with CNEs across three animal 
+      groups (worms, flies and vertebrates). We propose that these CNEs reflect the 
+      parallel evolution of alternative enhancers for a common set of developmental 
+      regulatory genes in different animal groups. This 're-wiring' of gene regulatory 
+      networks containing key developmental coordinators was probably a driving force 
+      during the evolution of animal body plans. CNEs may, therefore, represent the 
+      genomic traces of these 'hard-wired' core gene regulatory networks that specify 
+      the development of each alternative animal body plan.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge 
+      CB10 1SA, UK. tv1@sanger.ac.uk
+FAU - Walter, Klaudia
+AU  - Walter K
+FAU - Gilks, Walter R
+AU  - Gilks WR
+FAU - Lehner, Ben
+AU  - Lehner B
+FAU - Elgar, Greg
+AU  - Elgar G
+LA  - eng
+GR  - G0401138/MRC_/Medical Research Council/United Kingdom
+GR  - MC_U105260799/MRC_/Medical Research Council/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Genome Biol
+JT  - Genome biology
+JID - 100960660
+RN  - 0 (DNA, Intergenic)
+SB  - IM
+MH  - Animals
+MH  - Base Composition
+MH  - Base Sequence
+MH  - Caenorhabditis elegans/*genetics
+MH  - Conserved Sequence/*genetics
+MH  - DNA, Intergenic/*genetics
+MH  - *Evolution, Molecular
+MH  - Gene Regulatory Networks/*genetics
+MH  - Growth and Development/*genetics
+MH  - Humans
+MH  - Molecular Sequence Data
+MH  - Sequence Analysis, DNA
+MH  - Sequence Homology
+MH  - Species Specificity
+PMC - PMC1852409
+EDAT- 2007/02/06 09:00
+MHDA- 2007/07/20 09:00
+PMCR- 2007/02/02
+CRDT- 2007/02/06 09:00
+PHST- 2006/07/25 00:00 [received]
+PHST- 2006/10/20 00:00 [revised]
+PHST- 2007/02/02 00:00 [accepted]
+PHST- 2007/02/06 09:00 [pubmed]
+PHST- 2007/07/20 09:00 [medline]
+PHST- 2007/02/06 09:00 [entrez]
+PHST- 2007/02/02 00:00 [pmc-release]
+AID - gb-2007-8-2-r15 [pii]
+AID - 10.1186/gb-2007-8-2-r15 [doi]
+PST - ppublish
+SO  - Genome Biol. 2007;8(2):R15. doi: 10.1186/gb-2007-8-2-r15.

@@ -1,0 +1,80 @@
+PMID- 18171472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080327
+LR  - 20220318
+IS  - 1752-0509 (Electronic)
+IS  - 1752-0509 (Linking)
+VI  - 2
+DP  - 2008 Jan 2
+TI  - A simple principle concerning the robustness of protein complex activity to 
+      changes in gene expression.
+PG  - 1
+LID - 10.1186/1752-0509-2-1 [doi]
+AB  - BACKGROUND: The functions of a eukaryotic cell are largely performed by 
+      multi-subunit protein complexes that act as molecular machines or information 
+      processing modules in cellular networks. An important problem in systems biology 
+      is to understand how, in general, these molecular machines respond to 
+      perturbations. RESULTS: In yeast, genes that inhibit growth when their expression 
+      is reduced are strongly enriched amongst the subunits of multi-subunit protein 
+      complexes. This applies to both the core and peripheral subunits of protein 
+      complexes, and the subunits of each complex normally have the same 
+      loss-of-function phenotypes. In contrast, genes that inhibit growth when their 
+      expression is increased are not enriched amongst the core or peripheral subunits 
+      of protein complexes, and the behaviour of one subunit of a complex is not 
+      predictive for the other subunits with respect to over-expression phenotypes. 
+      CONCLUSION: We propose the principle that the overall activity of a protein 
+      complex is in general robust to an increase, but not to a decrease in the 
+      expression of its subunits. This means that whereas phenotypes resulting from a 
+      decrease in gene expression can be predicted because they cluster on networks of 
+      protein complexes, over-expression phenotypes cannot be predicted in this way. We 
+      discuss the implications of these findings for understanding how cells are 
+      regulated, how they evolve, and how genetic perturbations connect to disease in 
+      humans.
+FAU - Semple, Jennifer I
+AU  - Semple JI
+AD  - EMBL-CRG Systems Biology Unit, Centre for Genomic Regulation (CRG), UPF, Dr, 
+      Aiguader 88, Barcelona 08003, Spain. jennifer.semple@crg.es
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Lehner, Ben
+AU  - Lehner B
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080102
+PL  - England
+TA  - BMC Syst Biol
+JT  - BMC systems biology
+JID - 101301827
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Multiprotein Complexes)
+SB  - IM
+CIN - BMC Syst Biol. 2009 Jan 30;3:16. doi: 10.1186/1752-0509-3-16. PMID: 19183469
+MH  - Down-Regulation
+MH  - Fungal Proteins/genetics/metabolism
+MH  - Gene Expression/physiology
+MH  - *Gene Expression Regulation, Fungal/physiology
+MH  - Genome, Fungal/physiology
+MH  - Growth/genetics
+MH  - Multiprotein Complexes/analysis/*genetics/metabolism
+MH  - Phenotype
+MH  - Stochastic Processes
+MH  - Structure-Activity Relationship
+MH  - Up-Regulation
+MH  - Yeasts/genetics/growth & development/metabolism
+PMC - PMC2242779
+EDAT- 2008/01/04 09:00
+MHDA- 2008/03/28 09:00
+PMCR- 2008/01/02
+CRDT- 2008/01/04 09:00
+PHST- 2007/09/03 00:00 [received]
+PHST- 2008/01/02 00:00 [accepted]
+PHST- 2008/01/04 09:00 [pubmed]
+PHST- 2008/03/28 09:00 [medline]
+PHST- 2008/01/04 09:00 [entrez]
+PHST- 2008/01/02 00:00 [pmc-release]
+AID - 1752-0509-2-1 [pii]
+AID - 10.1186/1752-0509-2-1 [doi]
+PST - epublish
+SO  - BMC Syst Biol. 2008 Jan 2;2:1. doi: 10.1186/1752-0509-2-1.

@@ -1,0 +1,109 @@
+PMID- 31501877
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200511
+LR  - 20200511
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 47
+IP  - 21
+DP  - 2019 Dec 2
+TI  - Assessment of kinship detection using RNA-seq data.
+PG  - e136
+LID - 10.1093/nar/gkz776 [doi]
+AB  - Analysis of RNA sequencing (RNA-seq) data from related individuals is widely used 
+      in clinical and molecular genetics studies. Prediction of kinship from RNA-seq 
+      data would be useful for confirming the expected relationships in family based 
+      studies and for highlighting samples from related individuals in case-control or 
+      population based studies. Currently, reconstruction of pedigrees is largely based 
+      on SNPs or microsatellites, obtained from genotyping arrays, whole genome 
+      sequencing and whole exome sequencing. Potential problems with using RNA-seq data 
+      for kinship detection are the low proportion of the genome that it covers, the 
+      highly skewed coverage of exons of different genes depending on expression level 
+      and allele-specific expression. In this study we assess the use of RNA-seq data 
+      to detect kinship between individuals, through pairwise identity by descent (IBD) 
+      estimates. First, we obtained high quality SNPs after successive filters to 
+      minimize the effects due to allelic imbalance as well as errors in sequencing, 
+      mapping and genotyping. Then, we used these SNPs to calculate pairwise IBD 
+      estimates. By analysing both real and simulated RNA-seq data we show that it is 
+      possible to identify up to second degree relationships using RNA-seq data of even 
+      low to moderate sequencing depth.
+CI  - © The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic 
+      Acids Research.
+FAU - Blay, Natalia
+AU  - Blay N
+AD  - Program for Predictive and Personalized Medicine of Cancer, Germans Trias i Pujol 
+      Research Institute (PMPPC-IGTP), Badalona 08916, Spain.
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Campus ICO-Germans Trias i 
+      Pujol, Universitat Autònoma de Barcelona, Badalona 08916, Spain.
+AD  - Masters Programme in Bioinformatics and Biostatistics, Universitat Oberta de 
+      Catalunya (UOC), Barcelona 08035, Spain.
+FAU - Casas, Eduard
+AU  - Casas E
+AD  - Program for Predictive and Personalized Medicine of Cancer, Germans Trias i Pujol 
+      Research Institute (PMPPC-IGTP), Badalona 08916, Spain.
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Campus ICO-Germans Trias i 
+      Pujol, Universitat Autònoma de Barcelona, Badalona 08916, Spain.
+AD  - Doctoral Programme in Biomedicine, Universitat de Barcelona, Barcelona 08007, 
+      Spain.
+FAU - Galván-Femenía, Iván
+AU  - Galván-Femenía I
+AD  - Program for Predictive and Personalized Medicine of Cancer, Germans Trias i Pujol 
+      Research Institute (PMPPC-IGTP), Badalona 08916, Spain.
+AD  - Genomes for Life - GCAT lab Group - Germans Trias i Pujol Research Institute, Can 
+      Ruti Campus, Ctra de Can Ruti, Camí de les Escoles s/n, Badalona, 
+      Barcelona 08916, Spain.
+FAU - Graffelman, Jan
+AU  - Graffelman J
+AD  - Department of Statistics and Operations Research Universitat Politècnica de 
+      Catalunya, Barcelona 08028, Spain.
+AD  - Department of Biostatistics, University of Washington, Seattle, WA 98105-946, 
+      USA.
+FAU - de Cid, Rafael
+AU  - de Cid R
+AD  - Program for Predictive and Personalized Medicine of Cancer, Germans Trias i Pujol 
+      Research Institute (PMPPC-IGTP), Badalona 08916, Spain.
+AD  - Genomes for Life - GCAT lab Group - Germans Trias i Pujol Research Institute, Can 
+      Ruti Campus, Ctra de Can Ruti, Camí de les Escoles s/n, Badalona, 
+      Barcelona 08916, Spain.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Program for Predictive and Personalized Medicine of Cancer, Germans Trias i Pujol 
+      Research Institute (PMPPC-IGTP), Badalona 08916, Spain.
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Campus ICO-Germans Trias i 
+      Pujol, Universitat Autònoma de Barcelona, Badalona 08916, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Base Sequence/*genetics
+MH  - Databases, Genetic
+MH  - *Genome, Human
+MH  - Humans
+MH  - *Pedigree
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - RNA/*genetics
+MH  - *Sequence Analysis, RNA
+PMC - PMC6868348
+EDAT- 2019/09/11 06:00
+MHDA- 2020/05/12 06:00
+PMCR- 2019/09/10
+CRDT- 2019/09/11 06:00
+PHST- 2019/08/29 00:00 [accepted]
+PHST- 2019/08/23 00:00 [revised]
+PHST- 2019/02/16 00:00 [received]
+PHST- 2019/09/11 06:00 [pubmed]
+PHST- 2020/05/12 06:00 [medline]
+PHST- 2019/09/11 06:00 [entrez]
+PHST- 2019/09/10 00:00 [pmc-release]
+AID - 5566588 [pii]
+AID - gkz776 [pii]
+AID - 10.1093/nar/gkz776 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2019 Dec 2;47(21):e136. doi: 10.1093/nar/gkz776.

@@ -1,0 +1,83 @@
+PMID- 15647795
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050623
+LR  - 20051117
+IS  - 1425-8153 (Print)
+IS  - 1425-8153 (Linking)
+VI  - 9
+IP  - 4A
+DP  - 2004
+TI  - Molecular characterisation of the SAND protein family: a study based on 
+      comparative genomics, structural bioinformatics and phylogeny.
+PG  - 739-53
+AB  - The activities of vertebrate lysosomes are critical to many essential cellular 
+      processes. The yeast vacuole is analogous to the mammalian lysosome and is used 
+      as a tool to gain insights into vesicle mediated vacuolar/lysosome transport. The 
+      protein SAND, which does not contain a SAND domain (PFAM accession number 
+      PF01342), has recently been shown to function at the tethering/docking stage of 
+      vacuole fusion as a critical component of the vacuole SNARE complex. In this 
+      publication we have identified SAND in diverse eukaryotes, from single celled 
+      organisms such as the yeasts to complex multi-cellular chordates such as mammals. 
+      We have demonstrated subfamily divisions in the SAND proteins and show that in 
+      vertebrates, a duplication event gave rise to two SAND sequences. This 
+      duplication appears to have occurred during early vertebrate evolution and 
+      conceivably with the evolution of lysosomes. Using bioinformatics we predict a 
+      secondary structure, solvent accessibility profile and protein fold for the SAND 
+      proteins and determine conserved sequence motifs, present in all SAND proteins 
+      and those that are specific to subsets. A comprehensive evaluation of yeast and 
+      human functional studies in conjunction with our in silico analysis has 
+      identified potential roles for some of these motifs.
+FAU - Cottage, Amanda
+AU  - Cottage A
+AD  - MRC Rosalind Franklin Centre for Genomic Research, Genome Campus, Hinxton, 
+      Cambridge, CB10 1SB, UK.
+FAU - Mullan, Lisa
+AU  - Mullan L
+FAU - Portela, Miriam B D
+AU  - Portela MB
+FAU - Hellen, Elizabeth
+AU  - Hellen E
+FAU - Carver, Tim
+AU  - Carver T
+FAU - Patel, Sunil
+AU  - Patel S
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Elgar, Greg
+AU  - Elgar G
+FAU - Edwards, Yvonne J K
+AU  - Edwards YJ
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Cell Mol Biol Lett
+JT  - Cellular & molecular biology letters
+JID - 9607427
+RN  - 0 (SNARE Proteins)
+RN  - 0 (Vesicular Transport Proteins)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Computational Biology
+MH  - Fungi/genetics
+MH  - Genomics
+MH  - Humans
+MH  - Lysosomes/genetics
+MH  - Molecular Sequence Data
+MH  - *Phylogeny
+MH  - Plants/genetics
+MH  - Protein Structure, Secondary
+MH  - SNARE Proteins
+MH  - Sequence Alignment
+MH  - Sequence Homology, Amino Acid
+MH  - Vacuoles/genetics
+MH  - Vesicular Transport Proteins/*chemistry/classification/*genetics
+EDAT- 2005/01/14 09:00
+MHDA- 2005/06/24 09:00
+CRDT- 2005/01/14 09:00
+PHST- 2005/01/14 09:00 [pubmed]
+PHST- 2005/06/24 09:00 [medline]
+PHST- 2005/01/14 09:00 [entrez]
+PST - ppublish
+SO  - Cell Mol Biol Lett. 2004;9(4A):739-53.

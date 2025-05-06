@@ -1,0 +1,65 @@
+PMID- 18514361
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090327
+LR  - 20220321
+IS  - 0168-9525 (Print)
+IS  - 0168-9525 (Linking)
+VI  - 24
+IP  - 7
+DP  - 2008 Jul
+TI  - Tuning in to the signals: noncoding sequence conservation in vertebrate genomes.
+PG  - 344-52
+LID - 10.1016/j.tig.2008.04.005 [doi]
+AB  - Aligning and comparing genomic sequences enables the identification of conserved 
+      sequence signatures and can enrich for coding and noncoding functional regions. 
+      In vertebrates, the comparison of human and rodent genomes and the comparison of 
+      evolutionarily distant genomes, such as human and pufferfish, have identified 
+      specific sets of 'ultraconserved' sequence elements associated with the control 
+      of early development. However, is this just the tip of a 'conservation iceberg' 
+      or do these sequences represent a specific class of regulatory element? Studies 
+      on the zebrafish phox2b gene region and the ENCODE project suggest that many 
+      regulatory elements are not highly conserved, posing intriguing questions about 
+      the relationship between noncoding sequence conservation and function and the 
+      evolution of regulatory sequences.
+FAU - Elgar, Greg
+AU  - Elgar G
+AD  - School of Biological and Chemical Sciences, Queen Mary, University of London, 
+      London, UK. g.elgar@qmul.ac.uk <g.elgar@qmul.ac.uk>
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+LA  - eng
+GR  - G0401138/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20080529
+PL  - England
+TA  - Trends Genet
+JT  - Trends in genetics : TIG
+JID - 8507085
+RN  - 0 (DNA, Intergenic)
+SB  - IM
+MH  - Animals
+MH  - Computational Biology
+MH  - *Conserved Sequence
+MH  - DNA, Intergenic/*genetics
+MH  - Genome/*genetics
+MH  - Humans
+MH  - Invertebrates/genetics
+MH  - Vertebrates/*genetics
+RF  - 63
+EDAT- 2008/06/03 09:00
+MHDA- 2009/03/28 09:00
+CRDT- 2008/06/03 09:00
+PHST- 2008/02/07 00:00 [received]
+PHST- 2008/04/14 00:00 [revised]
+PHST- 2008/04/14 00:00 [accepted]
+PHST- 2008/06/03 09:00 [pubmed]
+PHST- 2009/03/28 09:00 [medline]
+PHST- 2008/06/03 09:00 [entrez]
+AID - S0168-9525(08)00151-0 [pii]
+AID - 10.1016/j.tig.2008.04.005 [doi]
+PST - ppublish
+SO  - Trends Genet. 2008 Jul;24(7):344-52. doi: 10.1016/j.tig.2008.04.005. Epub 2008 
+      May 29.

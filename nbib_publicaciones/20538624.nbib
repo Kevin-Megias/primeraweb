@@ -1,0 +1,82 @@
+PMID- 20538624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101123
+LR  - 20211020
+IS  - 1549-5469 (Electronic)
+IS  - 1088-9051 (Print)
+IS  - 1088-9051 (Linking)
+VI  - 20
+IP  - 8
+DP  - 2010 Aug
+TI  - Predicting genetic modifier loci using functional gene networks.
+PG  - 1143-53
+LID - 10.1101/gr.102749.109 [doi]
+AB  - Most phenotypes are genetically complex, with contributions from mutations in 
+      many different genes. Mutations in more than one gene can combine synergistically 
+      to cause phenotypic change, and systematic studies in model organisms show that 
+      these genetic interactions are pervasive. However, in human association studies 
+      such nonadditive genetic interactions are very difficult to identify because of a 
+      lack of statistical power--simply put, the number of potential interactions is 
+      too vast. One approach to resolve this is to predict candidate modifier 
+      interactions between loci, and then to specifically test these for associations 
+      with the phenotype. Here, we describe a general method for predicting genetic 
+      interactions based on the use of integrated functional gene networks. We show 
+      that in both Saccharomyces cerevisiae and Caenorhabditis elegans a single 
+      high-coverage, high-quality functional network can successfully predict genetic 
+      modifiers for the majority of genes. For C. elegans we also describe the 
+      construction of a new, improved, and expanded functional network, WormNet 2. 
+      Using this network we demonstrate how it is possible to rapidly expand the number 
+      of modifier loci known for a gene, predicting and validating new genetic 
+      interactions for each of three signal transduction genes. We propose that this 
+      approach, termed network-guided modifier screening, provides a general strategy 
+      for predicting genetic interactions. This work thus suggests that a high-quality 
+      integrated human gene network will provide a powerful resource for modifier locus 
+      discovery in many different diseases.
+FAU - Lee, Insuk
+AU  - Lee I
+AD  - Department of Biotechnology, College of Life science and Biotechnology, Yonsei 
+      University, Seodaemun-ku, Seoul 120-749, South Korea. insuksysbio@gmail.com
+FAU - Lehner, Ben
+AU  - Lehner B
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Shin, Junha
+AU  - Shin J
+FAU - Fraser, Andrew G
+AU  - Fraser AG
+FAU - Marcotte, Edward M
+AU  - Marcotte EM
+LA  - eng
+GR  - R01 GM067779/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100609
+PL  - United States
+TA  - Genome Res
+JT  - Genome research
+JID - 9518021
+SB  - IM
+MH  - Animals
+MH  - Caenorhabditis elegans/genetics
+MH  - *Gene Regulatory Networks
+MH  - *Genetic Loci
+MH  - *Models, Genetic
+MH  - Mutation
+MH  - Saccharomyces cerevisiae/genetics
+MH  - Sequence Analysis, DNA/*methods
+MH  - Signal Transduction/genetics
+PMC - PMC2909577
+EDAT- 2010/06/12 06:00
+MHDA- 2010/12/14 06:00
+PMCR- 2011/02/01
+CRDT- 2010/06/12 06:00
+PHST- 2010/06/12 06:00 [entrez]
+PHST- 2010/06/12 06:00 [pubmed]
+PHST- 2010/12/14 06:00 [medline]
+PHST- 2011/02/01 00:00 [pmc-release]
+AID - gr.102749.109 [pii]
+AID - 10.1101/gr.102749.109 [doi]
+PST - ppublish
+SO  - Genome Res. 2010 Aug;20(8):1143-53. doi: 10.1101/gr.102749.109. Epub 2010 Jun 9.

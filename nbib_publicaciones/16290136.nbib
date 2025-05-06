@@ -1,0 +1,66 @@
+PMID- 16290136
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060302
+LR  - 20220129
+IS  - 0168-9525 (Print)
+IS  - 0168-9525 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2006 Jan
+TI  - Defining a genomic radius for long-range enhancer action: duplicated conserved 
+      non-coding elements hold the key.
+PG  - 5-10
+AB  - Many conserved non-coding elements (CNEs) in vertebrate genomes have been shown 
+      to function as tissue-specific enhancers. However, the target genes of most CNEs 
+      are unknown. Here we show that the target genes of duplicated CNEs can be 
+      predicted by considering their neighbouring paralogous genes. This enables us to 
+      provide the first systematic estimate of the genomic range for distal 
+      cis-regulatory interactions in the human genome: half of CNEs are >250 kb away 
+      from their associated gene.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, 
+      Cambridge, UK, CB10 1SA. tv1@sanger.ac.uk
+FAU - McEwen, Gayle K
+AU  - McEwen GK
+FAU - Woolfe, Adam
+AU  - Woolfe A
+FAU - Gilks, Walter R
+AU  - Gilks WR
+FAU - Elgar, Greg
+AU  - Elgar G
+LA  - eng
+GR  - G0401138/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20051110
+PL  - England
+TA  - Trends Genet
+JT  - Trends in genetics : TIG
+JID - 8507085
+RN  - 0 (RNA, Untranslated)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - *Enhancer Elements, Genetic
+MH  - Gene Duplication
+MH  - Genome, Human
+MH  - Humans
+MH  - RNA, Untranslated/*genetics
+MH  - Takifugu/genetics
+MH  - Transcription Factors/genetics
+EDAT- 2005/11/18 09:00
+MHDA- 2006/03/03 09:00
+CRDT- 2005/11/18 09:00
+PHST- 2005/05/17 00:00 [received]
+PHST- 2005/09/02 00:00 [revised]
+PHST- 2005/10/17 00:00 [accepted]
+PHST- 2005/11/18 09:00 [pubmed]
+PHST- 2006/03/03 09:00 [medline]
+PHST- 2005/11/18 09:00 [entrez]
+AID - S0168-9525(05)00320-3 [pii]
+AID - 10.1016/j.tig.2005.10.005 [doi]
+PST - ppublish
+SO  - Trends Genet. 2006 Jan;22(1):5-10. doi: 10.1016/j.tig.2005.10.005. Epub 2005 Nov 
+      10.

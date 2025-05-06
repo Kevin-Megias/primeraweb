@@ -1,0 +1,84 @@
+PMID- 23186133
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150330
+LR  - 20220310
+IS  - 1474-760X (Electronic)
+IS  - 1465-6906 (Print)
+IS  - 1474-7596 (Linking)
+VI  - 13
+IP  - 11
+DP  - 2012 Nov 27
+TI  - Human genes with CpG island promoters have a distinct transcription-associated 
+      chromatin organization.
+PG  - R110
+LID - 10.1186/gb-2012-13-11-r110 [doi]
+AB  - BACKGROUND: More than 50% of human genes initiate transcription from CpG 
+      dinucleotide-rich regions referred to as CpG islands. These genes show 
+      differences in their patterns of transcription initiation, and have been reported 
+      to have higher levels of some activation-associated chromatin modifications. 
+      RESULTS: Here we report that genes with CpG island promoters have a 
+      characteristic transcription-associated chromatin organization. This signature 
+      includes high levels of the transcription elongation-associated histone 
+      modifications H4K20me1, H2BK5me1 and H3K79me1/2/3 in the 5' end of the gene, 
+      depletion of the activation marks H2AK5ac, H3K14ac and H3K23ac immediately 
+      downstream of the transcription start site (TSS), and characteristic epigenetic 
+      asymmetries around the TSS. The chromosome organization factor CTCF may be bound 
+      upstream of RNA polymerase in most active CpG island promoters, and an unstable 
+      nucleosome at the TSS may be specifically marked by H4K20me3, the first example 
+      of such a modification. H3K36 monomethylation is only detected as enriched in the 
+      bodies of active genes that have CpG island promoters. Finally, as expression 
+      levels increase, peak modification levels of the histone methylations H3K9me1, 
+      H3K4me1, H3K4me2 and H3K27me1 shift further away from the TSS into the gene body. 
+      CONCLUSIONS: These results suggest that active genes with CpG island promoters 
+      have a distinct step-like series of modified nucleosomes after the TSS. The 
+      identity, positioning, shape and relative ordering of transcription-associated 
+      histone modifications differ between genes with and without CpG island promoters. 
+      This supports a model where chromatin organization reflects not only 
+      transcription activity but also the type of promoter in which transcription 
+      initiates.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Lehner, Ben
+AU  - Lehner B
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121127
+PL  - England
+TA  - Genome Biol
+JT  - Genome biology
+JID - 100960660
+RN  - 0 (CCCTC-Binding Factor)
+RN  - 0 (CTCF protein, human)
+RN  - 0 (Chromatin)
+RN  - 0 (Histones)
+RN  - 0 (Repressor Proteins)
+RN  - EC 2.7.7.6 (DNA-Directed RNA Polymerases)
+SB  - IM
+MH  - CCCTC-Binding Factor
+MH  - CD4-Positive T-Lymphocytes/metabolism
+MH  - Chromatin/*genetics/metabolism
+MH  - *CpG Islands
+MH  - DNA-Directed RNA Polymerases/metabolism
+MH  - Epigenesis, Genetic
+MH  - Histones/metabolism
+MH  - Humans
+MH  - *Promoter Regions, Genetic
+MH  - Repressor Proteins/*metabolism
+MH  - *Transcription, Genetic
+PMC - PMC3580500
+EDAT- 2012/11/29 06:00
+MHDA- 2015/03/31 06:00
+PMCR- 2012/11/27
+CRDT- 2012/11/29 06:00
+PHST- 2012/07/05 00:00 [received]
+PHST- 2012/11/27 00:00 [accepted]
+PHST- 2012/11/29 06:00 [entrez]
+PHST- 2012/11/29 06:00 [pubmed]
+PHST- 2015/03/31 06:00 [medline]
+PHST- 2012/11/27 00:00 [pmc-release]
+AID - gb-2012-13-11-r110 [pii]
+AID - 10.1186/gb-2012-13-11-r110 [doi]
+PST - epublish
+SO  - Genome Biol. 2012 Nov 27;13(11):R110. doi: 10.1186/gb-2012-13-11-r110.

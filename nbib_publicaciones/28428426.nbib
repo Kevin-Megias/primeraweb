@@ -1,0 +1,100 @@
+PMID- 28428426
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171129
+LR  - 20171129
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 356
+IP  - 6335
+DP  - 2017 Apr 21
+TI  - Transgenerational transmission of environmental information in C. elegans.
+PG  - 320-323
+LID - 10.1126/science.aah6412 [doi]
+AB  - The environment experienced by an animal can sometimes influence gene expression 
+      for one or a few subsequent generations. Here, we report the observation that a 
+      temperature-induced change in expression from a Caenorhabditis elegans 
+      heterochromatic gene array can endure for at least 14 generations. Inheritance is 
+      primarily in cis with the locus, occurs through both oocytes and sperm, and is 
+      associated with altered trimethylation of histone H3 lysine 9 (H3K9me3) before 
+      the onset of zygotic transcription. Expression profiling reveals that 
+      temperature-induced expression from endogenous repressed repeats can also be 
+      inherited for multiple generations. Long-lasting epigenetic memory of 
+      environmental change is therefore possible in this animal.
+CI  - Copyright © 2017, American Association for the Advancement of Science.
+FAU - Klosin, Adam
+AU  - Klosin A
+AUID- ORCID: 0000-0002-9144-6184
+AD  - EMBL-CRG Systems Biology Unit, Centre for Genomic Regulation (CRG), European 
+      Molecular Biology Organization, 08003 Barcelona, Spain.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+FAU - Casas, Eduard
+AU  - Casas E
+AD  - Program for Predictive and Personalized Medicine of Cancer, Institute Germans 
+      Trias I Pujol, Campus Can Ruti, 08916 Badalona, Barcelona, Spain.
+FAU - Hidalgo-Carcedo, Cristina
+AU  - Hidalgo-Carcedo C
+AD  - EMBL-CRG Systems Biology Unit, Centre for Genomic Regulation (CRG), European 
+      Molecular Biology Organization, 08003 Barcelona, Spain.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Program for Predictive and Personalized Medicine of Cancer, Institute Germans 
+      Trias I Pujol, Campus Can Ruti, 08916 Badalona, Barcelona, Spain. 
+      ben.lehner@crg.eu tvavouri@carrerasresearch.org.
+AD  - Josep Carreras Leukaemia Research Institute, 08916 Badalona, Barcelona, Spain.
+FAU - Lehner, Ben
+AU  - Lehner B
+AUID- ORCID: 0000-0002-8817-1124
+AD  - EMBL-CRG Systems Biology Unit, Centre for Genomic Regulation (CRG), European 
+      Molecular Biology Organization, 08003 Barcelona, Spain. ben.lehner@crg.eu 
+      tvavouri@carrerasresearch.org.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+AD  - Institució Catalana de Recerca i Estudis Avançats, 08010 Barcelona, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - 0 (Caenorhabditis elegans Proteins)
+RN  - 0 (Environmental Biomarkers)
+RN  - 0 (Heterochromatin)
+RN  - 0 (Histones)
+RN  - EC 2.1.1.43 (Histone-Lysine N-Methyltransferase)
+RN  - EC 2.1.1.43 (SET-25 protein, C elegans)
+RN  - K3Z4F929H6 (Lysine)
+SB  - IM
+MH  - Animals
+MH  - Caenorhabditis elegans/*genetics
+MH  - Caenorhabditis elegans Proteins/*genetics
+MH  - *Environment
+MH  - Environmental Biomarkers/*genetics
+MH  - *Epigenesis, Genetic
+MH  - Female
+MH  - Heterochromatin/metabolism
+MH  - Histone-Lysine N-Methyltransferase/*genetics
+MH  - Histones/metabolism
+MH  - Hot Temperature
+MH  - Lysine/metabolism
+MH  - Male
+MH  - Methylation
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Oocytes/metabolism
+MH  - Spermatozoa/metabolism
+MH  - Transcription, Genetic
+MH  - Zygote
+EDAT- 2017/04/22 06:00
+MHDA- 2017/12/01 06:00
+CRDT- 2017/04/22 06:00
+PHST- 2016/07/25 00:00 [received]
+PHST- 2016/12/21 00:00 [revised]
+PHST- 2017/03/24 00:00 [accepted]
+PHST- 2017/04/22 06:00 [entrez]
+PHST- 2017/04/22 06:00 [pubmed]
+PHST- 2017/12/01 06:00 [medline]
+AID - 356/6335/320 [pii]
+AID - 10.1126/science.aah6412 [doi]
+PST - ppublish
+SO  - Science. 2017 Apr 21;356(6335):320-323. doi: 10.1126/science.aah6412.

@@ -1,0 +1,107 @@
+PMID- 28835928
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190628
+LR  - 20210924
+IS  - 2375-2548 (Electronic)
+IS  - 2375-2548 (Linking)
+VI  - 3
+IP  - 8
+DP  - 2017 Aug
+TI  - Impaired DNA replication derepresses chromatin and generates a 
+      transgenerationally inherited epigenetic memory.
+PG  - e1701143
+LID - 10.1126/sciadv.1701143 [doi]
+LID - e1701143
+AB  - Impaired DNA replication is a hallmark of cancer and a cause of genomic 
+      instability. We report that, in addition to causing genetic change, impaired DNA 
+      replication during embryonic development can have major epigenetic consequences 
+      for a genome. In a genome-wide screen, we identified impaired DNA replication as 
+      a cause of increased expression from a repressed transgene in Caenorhabditis 
+      elegans. The acquired expression state behaved as an "epiallele," being inherited 
+      for multiple generations before fully resetting. Derepression was not restricted 
+      to the transgene but was caused by a global reduction in 
+      heterochromatin-associated histone modifications due to the impaired retention of 
+      modified histones on DNA during replication in the early embryo. Impaired DNA 
+      replication during development can therefore globally derepress chromatin, 
+      creating new intergenerationally inherited epigenetic expression states.
+FAU - Klosin, Adam
+AU  - Klosin A
+AUID- ORCID: 0000-0002-9144-6184
+AD  - European Molecular Biology Laboratory-Centre for Genomic Regulation (EMBL-CRG) 
+      Systems Biology Unit, CRG, the Barcelona Institute of Science and Technology, 
+      08003 Barcelona, Spain.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+FAU - Reis, Kadri
+AU  - Reis K
+AD  - European Molecular Biology Laboratory-Centre for Genomic Regulation (EMBL-CRG) 
+      Systems Biology Unit, CRG, the Barcelona Institute of Science and Technology, 
+      08003 Barcelona, Spain.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+FAU - Hidalgo-Carcedo, Cristina
+AU  - Hidalgo-Carcedo C
+AUID- ORCID: 0000-0003-3571-2449
+AD  - European Molecular Biology Laboratory-Centre for Genomic Regulation (EMBL-CRG) 
+      Systems Biology Unit, CRG, the Barcelona Institute of Science and Technology, 
+      08003 Barcelona, Spain.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+FAU - Casas, Eduard
+AU  - Casas E
+AD  - Program of Predictive and Personalized Medicine of Cancer-Institute Germans Trias 
+      i Pujol, Can Ruti Campus, Ctra de Can Ruti, Camí de les Escoles s/n, Badalona, 
+      08916 Barcelona, Spain.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AUID- ORCID: 0000-0003-2352-9049
+AD  - Program of Predictive and Personalized Medicine of Cancer-Institute Germans Trias 
+      i Pujol, Can Ruti Campus, Ctra de Can Ruti, Camí de les Escoles s/n, Badalona, 
+      08916 Barcelona, Spain.
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Can Ruti Campus, Ctra de Can 
+      Ruti, Camí de les Escoles s/n, Badalona, 08916 Barcelona, Spain.
+FAU - Lehner, Ben
+AU  - Lehner B
+AUID- ORCID: 0000-0002-8817-1124
+AD  - European Molecular Biology Laboratory-Centre for Genomic Regulation (EMBL-CRG) 
+      Systems Biology Unit, CRG, the Barcelona Institute of Science and Technology, 
+      08003 Barcelona, Spain.
+AD  - Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+AD  - Institució Catalana de Recerca i Estudis Avançats, 08010 Barcelona, Spain.
+LA  - eng
+GR  - 616434/ERC_/European Research Council/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170816
+PL  - United States
+TA  - Sci Adv
+JT  - Science advances
+JID - 101653440
+RN  - 0 (Chromatin)
+RN  - 0 (Histones)
+SB  - IM
+MH  - Animals
+MH  - Caenorhabditis elegans
+MH  - Chromatin/*genetics
+MH  - Chromatin Immunoprecipitation
+MH  - *DNA Replication
+MH  - *Epigenesis, Genetic
+MH  - Gene Expression
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Histones/metabolism
+MH  - RNA Interference
+MH  - Time-Lapse Imaging
+PMC - PMC5559210
+EDAT- 2017/08/25 06:00
+MHDA- 2019/06/30 06:00
+PMCR- 2017/08/16
+CRDT- 2017/08/25 06:00
+PHST- 2017/04/03 00:00 [received]
+PHST- 2017/07/21 00:00 [accepted]
+PHST- 2017/08/25 06:00 [entrez]
+PHST- 2017/08/25 06:00 [pubmed]
+PHST- 2019/06/30 06:00 [medline]
+PHST- 2017/08/16 00:00 [pmc-release]
+AID - 1701143 [pii]
+AID - 10.1126/sciadv.1701143 [doi]
+PST - epublish
+SO  - Sci Adv. 2017 Aug 16;3(8):e1701143. doi: 10.1126/sciadv.1701143. eCollection 2017 
+      Aug.

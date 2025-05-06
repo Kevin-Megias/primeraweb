@@ -1,0 +1,72 @@
+PMID- 19596244
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090727
+LR  - 20220317
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+VI  - 138
+IP  - 1
+DP  - 2009 Jul 10
+TI  - Intrinsic protein disorder and interaction promiscuity are widely associated with 
+      dosage sensitivity.
+PG  - 198-208
+LID - 10.1016/j.cell.2009.04.029 [doi]
+AB  - Why are genes harmful when they are overexpressed? By testing possible causes of 
+      overexpression phenotypes in yeast, we identify intrinsic protein disorder as an 
+      important determinant of dosage sensitivity. Disordered regions are prone to make 
+      promiscuous molecular interactions when their concentration is increased, and we 
+      demonstrate that this is the likely cause of pathology when genes are 
+      overexpressed. We validate our findings in two animals, Drosophila melanogaster 
+      and Caenorhabditis elegans. In mice and humans the same properties are strongly 
+      associated with dosage-sensitive oncogenes, such that mass-action-driven 
+      molecular interactions may be a frequent cause of cancer. Dosage-sensitive genes 
+      are tightly regulated at the transcriptional, RNA, and protein levels, which may 
+      serve to prevent harmful increases in protein concentration under physiological 
+      conditions. Mass-action-driven interaction promiscuity is a single theoretical 
+      framework that can be used to understand, predict, and possibly treat the effects 
+      of increased gene expression in evolution and disease.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - EMBL-CRG Systems Biology Unit, Centre for Genomic Regulation, UPF, Dr. Aiguader 
+      88, Barcelona 08003, Spain.
+FAU - Semple, Jennifer I
+AU  - Semple JI
+FAU - Garcia-Verdugo, Rosa
+AU  - Garcia-Verdugo R
+FAU - Lehner, Ben
+AU  - Lehner B
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Proteins)
+RN  - 0 (RNA, Messenger)
+SB  - IM
+CIN - Cell. 2009 Jul 10;138(1):16-8. doi: 10.1016/j.cell.2009.06.024. PMID: 19596229
+MH  - Animals
+MH  - Caenorhabditis elegans/genetics/metabolism
+MH  - Drosophila melanogaster/genetics/metabolism
+MH  - *Gene Expression
+MH  - Humans
+MH  - Mice
+MH  - Neoplasms/metabolism
+MH  - Proteins/*metabolism/*toxicity
+MH  - RNA, Messenger/metabolism
+MH  - Saccharomyces cerevisiae/genetics/metabolism
+EDAT- 2009/07/15 09:00
+MHDA- 2009/07/28 09:00
+CRDT- 2009/07/15 09:00
+PHST- 2008/10/30 00:00 [received]
+PHST- 2009/02/03 00:00 [revised]
+PHST- 2009/04/06 00:00 [accepted]
+PHST- 2009/07/15 09:00 [entrez]
+PHST- 2009/07/15 09:00 [pubmed]
+PHST- 2009/07/28 09:00 [medline]
+AID - S0092-8674(09)00454-1 [pii]
+AID - 10.1016/j.cell.2009.04.029 [doi]
+PST - ppublish
+SO  - Cell. 2009 Jul 10;138(1):198-208. doi: 10.1016/j.cell.2009.04.029.

@@ -1,0 +1,120 @@
+PMID- 25904136
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150807
+LR  - 20181113
+IS  - 1469-9001 (Electronic)
+IS  - 1355-8382 (Print)
+IS  - 1355-8382 (Linking)
+VI  - 21
+IP  - 6
+DP  - 2015 Jun
+TI  - The small RNA content of human sperm reveals pseudogene-derived piRNAs 
+      complementary to protein-coding genes.
+PG  - 1085-95
+LID - 10.1261/rna.046482.114 [doi]
+AB  - At the end of mammalian sperm development, sperm cells expel most of their 
+      cytoplasm and dispose of the majority of their RNA. Yet, hundreds of RNA 
+      molecules remain in mature sperm. The biological significance of the vast 
+      majority of these molecules is unclear. To better understand the processes that 
+      generate sperm small RNAs and what roles they may have, we sequenced and 
+      characterized the small RNA content of sperm samples from two human fertile 
+      individuals. We detected 182 microRNAs, some of which are highly abundant. The 
+      most abundant microRNA in sperm is miR-1246 with predicted targets among 
+      sperm-specific genes. The most abundant class of small noncoding RNAs in sperm 
+      are PIWI-interacting RNAs (piRNAs). Surprisingly, we found that human sperm cells 
+      contain piRNAs processed from pseudogenes. Clusters of piRNAs from human testes 
+      contain pseudogenes transcribed in the antisense strand and processed into small 
+      RNAs. Several human protein-coding genes contain antisense predicted targets of 
+      pseudogene-derived piRNAs in the male germline and these piRNAs are still found 
+      in mature sperm. Our study provides the most extensive data set and annotation of 
+      human sperm small RNAs to date and is a resource for further functional studies 
+      on the roles of sperm small RNAs. In addition, we propose that some of the 
+      pseudogene-derived human piRNAs may regulate expression of their parent gene in 
+      the male germline.
+CI  - © 2015 Pantano et al.; Published by Cold Spring Harbor Laboratory Press for the 
+      RNA Society.
+FAU - Pantano, Lorena
+AU  - Pantano L
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Can Ruti 
+      Campus, Badalona, Barcelona 08916, Spain.
+FAU - Jodar, Meritxell
+AU  - Jodar M
+AD  - Genetics Unit, Department of Physiological Sciences, University of Barcelona, 
+      Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Biochemistry 
+      and Molecular Genetics Service, Hospital Clinic, 08036 Barcelona, Spain.
+FAU - Bak, Mads
+AU  - Bak M
+AD  - Center for non-coding RNA in Technology and Health (RTH), University of 
+      Copenhagen, DK-2200 Copenhagen, Denmark Wilhelm Johannsen Centre for Functional 
+      Genome Research, Department of Cellular and Molecular Medicine, Faculty of Health 
+      Science, University of Copenhagen, DK-2200 Copenhagen, Denmark.
+FAU - Ballescà, Josep Lluís
+AU  - Ballescà JL
+AD  - Andrology Unit, Institut Clínic de Ginecologia, Obstetricia i Neonatologia, 
+      Hospital Clínic, 08036 Barcelona, Spain.
+FAU - Tommerup, Niels
+AU  - Tommerup N
+AD  - Center for non-coding RNA in Technology and Health (RTH), University of 
+      Copenhagen, DK-2200 Copenhagen, Denmark Wilhelm Johannsen Centre for Functional 
+      Genome Research, Department of Cellular and Molecular Medicine, Faculty of Health 
+      Science, University of Copenhagen, DK-2200 Copenhagen, Denmark.
+FAU - Oliva, Rafael
+AU  - Oliva R
+AD  - Genetics Unit, Department of Physiological Sciences, University of Barcelona, 
+      Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Biochemistry 
+      and Molecular Genetics Service, Hospital Clinic, 08036 Barcelona, Spain.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Can Ruti 
+      Campus, Badalona, Barcelona 08916, Spain Josep Carreras Leukaemia Research 
+      Institute (IJC), ICO-Hospital GermansTrias i Pujol, Badalona, Barcelona 08916, 
+      Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150422
+PL  - United States
+TA  - RNA
+JT  - RNA (New York, N.Y.)
+JID - 9509184
+RN  - 0 (MIRN1246 microRNA, human)
+RN  - 0 (MicroRNAs)
+RN  - 0 (Proteins)
+RN  - 0 (RNA, Small Interfering)
+SB  - IM
+MH  - Humans
+MH  - Long Interspersed Nucleotide Elements
+MH  - Male
+MH  - MicroRNAs/*genetics
+MH  - Phylogeny
+MH  - Promoter Regions, Genetic
+MH  - Proteins/metabolism
+MH  - *Pseudogenes
+MH  - RNA, Small Interfering/*genetics/*metabolism
+MH  - Sequence Analysis, RNA/methods
+MH  - Spermatozoa/*metabolism
+MH  - Testis/metabolism
+PMC - PMC4436662
+OTO - NOTNLM
+OT  - PIWI
+OT  - RNA
+OT  - microRNA
+OT  - piRNA
+OT  - pseudogene
+OT  - sperm
+EDAT- 2015/04/24 06:00
+MHDA- 2015/08/08 06:00
+PMCR- 2016/06/01
+CRDT- 2015/04/24 06:00
+PHST- 2014/05/20 00:00 [received]
+PHST- 2015/02/19 00:00 [accepted]
+PHST- 2015/04/24 06:00 [entrez]
+PHST- 2015/04/24 06:00 [pubmed]
+PHST- 2015/08/08 06:00 [medline]
+PHST- 2016/06/01 00:00 [pmc-release]
+AID - rna.046482.114 [pii]
+AID - RA [pii]
+AID - 10.1261/rna.046482.114 [doi]
+PST - ppublish
+SO  - RNA. 2015 Jun;21(6):1085-95. doi: 10.1261/rna.046482.114. Epub 2015 Apr 22.

@@ -1,0 +1,87 @@
+PMID- 12824356
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030818
+LR  - 20241121
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 31
+IP  - 13
+DP  - 2003 Jul 1
+TI  - Theatre: A software tool for detailed comparative analysis and visualization of 
+      genomic sequence.
+PG  - 3510-7
+AB  - Theatre is a web-based computing system designed for the comparative analysis of 
+      genomic sequences, especially with respect to motifs likely to be involved in the 
+      regulation of gene expression. Theatre is an interface to commonly used sequence 
+      analysis tools and biological sequence databases to determine or predict the 
+      positions of coding regions, repetitive sequences and transcription factor 
+      binding sites in families of DNA sequences. The information is displayed in a 
+      manner that can be easily understood and can reveal patterns that might not 
+      otherwise have been noticed. In addition to web-based output, Theatre can produce 
+      publication quality colour hardcopies showing predicted features in aligned 
+      genomic sequences. A case study using the p53 promoter region of four mammalian 
+      species and two fish species is described. Unlike the mammalian sequences the 
+      promoter regions in fish have not been previously predicted or characterized and 
+      we report the differences in the p53 promoter region of four mammals and that 
+      predicted for two fish species. Theatre can be accessed at 
+      http://www.hgmp.mrc.ac.uk/Registered/Webapp/theatre/.
+FAU - Edwards, Yvonne J K
+AU  - Edwards YJ
+AD  - Comparative Genomics Group, Research Division, MRC UK Human Genome Mapping 
+      Project Resource Centre, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 
+      1SB, UK. yjedward@hgmp.mrc.ac.uk
+FAU - Carver, Tim J
+AU  - Carver TJ
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Frith, Martin
+AU  - Frith M
+FAU - Bishop, Martin J
+AU  - Bishop MJ
+FAU - Elgar, Greg
+AU  - Elgar G
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - Base Sequence
+MH  - Binding Sites
+MH  - Computer Graphics
+MH  - Cricetinae
+MH  - Fishes/genetics
+MH  - Gene Components
+MH  - Gene Expression Regulation
+MH  - Genes, p53
+MH  - Genomics/*methods
+MH  - Humans
+MH  - Internet
+MH  - Mice
+MH  - Molecular Sequence Data
+MH  - Promoter Regions, Genetic
+MH  - Rats
+MH  - Repetitive Sequences, Nucleic Acid
+MH  - Sequence Alignment/*methods
+MH  - Sequence Analysis, DNA/*methods
+MH  - *Software
+MH  - Transcription Factors/metabolism
+MH  - User-Computer Interface
+PMC - PMC168908
+EDAT- 2003/06/26 05:00
+MHDA- 2003/08/19 05:00
+PMCR- 2003/07/01
+CRDT- 2003/06/26 05:00
+PHST- 2003/06/26 05:00 [pubmed]
+PHST- 2003/08/19 05:00 [medline]
+PHST- 2003/06/26 05:00 [entrez]
+PHST- 2003/07/01 00:00 [pmc-release]
+AID - gkg501 [pii]
+AID - 10.1093/nar/gkg501 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2003 Jul 1;31(13):3510-7. doi: 10.1093/nar/gkg501.

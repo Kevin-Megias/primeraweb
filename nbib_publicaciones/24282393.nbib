@@ -1,0 +1,96 @@
+PMID- 24282393
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140514
+LR  - 20220129
+IS  - 1553-7404 (Electronic)
+IS  - 1553-7390 (Print)
+IS  - 1553-7390 (Linking)
+VI  - 9
+IP  - 11
+DP  - 2013 Nov
+TI  - Parallel evolution of chordate cis-regulatory code for development.
+PG  - e1003904
+LID - 10.1371/journal.pgen.1003904 [doi]
+LID - e1003904
+AB  - Urochordates are the closest relatives of vertebrates and at the larval stage, 
+      possess a characteristic bilateral chordate body plan. In vertebrates, the genes 
+      that orchestrate embryonic patterning are in part regulated by highly conserved 
+      non-coding elements (CNEs), yet these elements have not been identified in 
+      urochordate genomes. Consequently the evolution of the cis-regulatory code for 
+      urochordate development remains largely uncharacterised. Here, we use genome-wide 
+      comparisons between C. intestinalis and C. savignyi to identify putative 
+      urochordate cis-regulatory sequences. Ciona conserved non-coding elements 
+      (ciCNEs) are associated with largely the same key regulatory genes as vertebrate 
+      CNEs. Furthermore, some of the tested ciCNEs are able to activate reporter gene 
+      expression in both zebrafish and Ciona embryos, in a pattern that at least 
+      partially overlaps that of the gene they associate with, despite the absence of 
+      sequence identity. We also show that the ability of a ciCNE to up-regulate gene 
+      expression in vertebrate embryos can in some cases be localised to short 
+      sub-sequences, suggesting that functional cross-talk may be defined by small 
+      regions of ancestral regulatory logic, although functional sub-sequences may also 
+      be dispersed across the whole element. We conclude that the structure and 
+      organisation of cis-regulatory modules is very different between vertebrates and 
+      urochordates, reflecting their separate evolutionary histories. However, 
+      functional cross-talk still exists because the same repertoire of transcription 
+      factors has likely guided their parallel evolution, exploiting similar sets of 
+      binding sites but in different combinations.
+FAU - Doglio, Laura
+AU  - Doglio L
+AD  - Systems Biology, MRC National Institute for Medical Research, Mill Hill, London, 
+      United Kingdom.
+FAU - Goode, Debbie K
+AU  - Goode DK
+FAU - Pelleri, Maria C
+AU  - Pelleri MC
+FAU - Pauls, Stefan
+AU  - Pauls S
+FAU - Frabetti, Flavia
+AU  - Frabetti F
+FAU - Shimeld, Sebastian M
+AU  - Shimeld SM
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Elgar, Greg
+AU  - Elgar G
+LA  - eng
+GR  - 100140/WT_/Wellcome Trust/United Kingdom
+GR  - BB/D018579/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - MC_U117597141/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131121
+PL  - United States
+TA  - PLoS Genet
+JT  - PLoS genetics
+JID - 101239074
+SB  - IM
+EIN - PLoS Genet. 2013 Nov;9(11). 
+      doi:10.1371/annotation/1fc82a4b-f9ea-461a-8987-1152078688e4
+MH  - Animals
+MH  - Ciona intestinalis/*genetics
+MH  - Conserved Sequence
+MH  - *Evolution, Molecular
+MH  - Gene Expression Regulation
+MH  - *Gene Regulatory Networks
+MH  - Urochordata
+MH  - Vertebrates/genetics
+MH  - Zebrafish/*genetics
+PMC - PMC3836708
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2013/11/28 06:00
+MHDA- 2014/05/16 06:00
+PMCR- 2013/11/01
+CRDT- 2013/11/28 06:00
+PHST- 2013/01/23 00:00 [received]
+PHST- 2013/09/09 00:00 [accepted]
+PHST- 2013/11/28 06:00 [entrez]
+PHST- 2013/11/28 06:00 [pubmed]
+PHST- 2014/05/16 06:00 [medline]
+PHST- 2013/11/01 00:00 [pmc-release]
+AID - PGENETICS-D-13-00243 [pii]
+AID - 10.1371/journal.pgen.1003904 [doi]
+PST - ppublish
+SO  - PLoS Genet. 2013 Nov;9(11):e1003904. doi: 10.1371/journal.pgen.1003904. Epub 2013 
+      Nov 21.

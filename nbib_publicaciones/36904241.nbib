@@ -1,0 +1,132 @@
+PMID- 36904241
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230314
+LR  - 20230314
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2023 Mar 1
+TI  - Intergenerational Inheritance of Hepatic Steatosis in a Mouse Model of Childhood 
+      Obesity: Potential Involvement of Germ-Line microRNAs.
+LID - 10.3390/nu15051241 [doi]
+LID - 1241
+AB  - Childhood obesity increases the risk of developing metabolic syndrome later in 
+      life. Moreover, metabolic dysfunction may be inherited into the following 
+      generation through non-genomic mechanisms, with epigenetics as a plausible 
+      candidate. The pathways involved in the development of metabolic dysfunction 
+      across generations in the context of childhood obesity remain largely unexplored. 
+      We have developed a mouse model of early adiposity by reducing litter size at 
+      birth (small litter group, SL: 4 pups/dam; control group, C: 8 pups/dam). Mice 
+      raised in small litters (SL) developed obesity, insulin resistance and hepatic 
+      steatosis with aging. Strikingly, the offspring of SL males (SL-F1) also 
+      developed hepatic steatosis. Paternal transmission of an environmentally induced 
+      phenotype strongly suggests epigenetic inheritance. We analyzed the hepatic 
+      transcriptome in C-F1 and SL-F1 mice to identify pathways involved in the 
+      development of hepatic steatosis. We found that the circadian rhythm and lipid 
+      metabolic process were the ontologies with highest significance in the liver of 
+      SL-F1 mice. We explored whether DNA methylation and small non-coding RNAs might 
+      be involved in mediating intergenerational effects. Sperm DNA methylation was 
+      largely altered in SL mice. However, these changes did not correlate with the 
+      hepatic transcriptome. Next, we analyzed small non-coding RNA content in the 
+      testes of mice from the parental generation. Two miRNAs (miR-457 and miR-201) 
+      appeared differentially expressed in the testes of SL-F0 mice. They are known to 
+      be expressed in mature spermatozoa, but not in oocytes nor early embryos, and 
+      they may regulate the transcription of lipogenic genes, but not clock genes, in 
+      hepatocytes. Hence, they are strong candidates to mediate the inheritance of 
+      adult hepatic steatosis in our murine model. In conclusion, litter size reduction 
+      leads to intergenerational effects through non-genomic mechanisms. In our model, 
+      DNA methylation does not seem to play a role on the circadian rhythm nor lipid 
+      genes. However, at least two paternal miRNAs might influence the expression of a 
+      few lipid-related genes in the first-generation offspring, F1.
+FAU - Ribas-Aulinas, Francesc
+AU  - Ribas-Aulinas F
+AUID- ORCID: 0000-0001-7672-4775
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+FAU - Ribo, Sílvia
+AU  - Ribo S
+AUID- ORCID: 0000-0001-8983-827X
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+FAU - Casas, Eduard
+AU  - Casas E
+AUID- ORCID: 0000-0002-6001-1276
+AD  - Josep Carreras Leukemia Research Institute (IJC), 08916 Badalona, Spain.
+FAU - Mourin-Fernandez, Marta
+AU  - Mourin-Fernandez M
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+FAU - Ramon-Krauel, Marta
+AU  - Ramon-Krauel M
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+AD  - Centro de Investigación Biomédica en Red de Diabetes y Enfermedades Metabólicas 
+      Asociadas (CIBERDEM), Instituto de Salud Carlos III, 28029 Madrid, Spain.
+FAU - Diaz, Ruben
+AU  - Diaz R
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+FAU - Lerin, Carles
+AU  - Lerin C
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+AD  - Centro de Investigación Biomédica en Red de Diabetes y Enfermedades Metabólicas 
+      Asociadas (CIBERDEM), Instituto de Salud Carlos III, 28029 Madrid, Spain.
+FAU - Kalko, Susana G
+AU  - Kalko SG
+AUID- ORCID: 0000-0002-6701-0233
+AD  - Vall d'Hebron Research Institute (VHIR), 08035 Barcelona, Spain.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AUID- ORCID: 0000-0003-2352-9049
+AD  - Josep Carreras Leukemia Research Institute (IJC), 08916 Badalona, Spain.
+FAU - Jimenez-Chillaron, Josep C
+AU  - Jimenez-Chillaron JC
+AD  - Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, 08950 Barcelona, Spain.
+AD  - School of Medicine, University of Barcelona, L'Hospitalet, 08907 Barcelona, 
+      Spain.
+LA  - eng
+GR  - Lilly, year grant 2016/European Foundation for the Study of Diabetes/
+GR  - SAF2017-84542-R/Ministry of Economy, Industry and Competitiveness/
+GR  - 62167/The Templeton Foundation/
+PT  - Journal Article
+DEP - 20230301
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (MicroRNAs)
+RN  - 0 (Lipids)
+SB  - IM
+MH  - Male
+MH  - Mice
+MH  - Animals
+MH  - *MicroRNAs
+MH  - *Pediatric Obesity
+MH  - Disease Models, Animal
+MH  - Semen
+MH  - Epigenesis, Genetic
+MH  - *Fatty Liver
+MH  - DNA Methylation
+MH  - Lipids
+PMC - PMC10005268
+OTO - NOTNLM
+OT  - DNA methylation
+OT  - childhood obesity
+OT  - circadian rhythm
+OT  - intergenerational epigenetic inheritance
+OT  - litter size reduction
+OT  - small non-coding RNAs
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/03/12 06:00
+MHDA- 2023/03/15 06:00
+PMCR- 2023/03/01
+CRDT- 2023/03/11 01:30
+PHST- 2023/01/10 00:00 [received]
+PHST- 2023/02/23 00:00 [revised]
+PHST- 2023/02/27 00:00 [accepted]
+PHST- 2023/03/11 01:30 [entrez]
+PHST- 2023/03/12 06:00 [pubmed]
+PHST- 2023/03/15 06:00 [medline]
+PHST- 2023/03/01 00:00 [pmc-release]
+AID - nu15051241 [pii]
+AID - nutrients-15-01241 [pii]
+AID - 10.3390/nu15051241 [doi]
+PST - epublish
+SO  - Nutrients. 2023 Mar 1;15(5):1241. doi: 10.3390/nu15051241.

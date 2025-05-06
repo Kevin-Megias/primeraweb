@@ -1,0 +1,84 @@
+PMID- 16533910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060606
+LR  - 20220129
+IS  - 1088-9051 (Print)
+IS  - 1549-5477 (Electronic)
+IS  - 1088-9051 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2006 Apr
+TI  - Ancient duplicated conserved noncoding elements in vertebrates: a genomic and 
+      functional analysis.
+PG  - 451-65
+AB  - Fish-mammal genomic comparisons have proved powerful in identifying conserved 
+      noncoding elements likely to be cis-regulatory in nature, and the majority of 
+      those tested in vivo have been shown to act as tissue-specific enhancers 
+      associated with genes involved in transcriptional regulation of development. 
+      Although most of these elements share little sequence identity to each other, a 
+      small number are remarkably similar and appear to be the product of duplication 
+      events. Here, we searched for duplicated conserved noncoding elements in the 
+      human genome, using comparisons with Fugu to select putative cis-regulatory 
+      sequences. We identified 124 families of duplicated elements, each containing 
+      between two and five members, that are highly conserved within and between 
+      vertebrate genomes. In 74% of cases, we were able to assign a specific set of 
+      paralogous genes with annotation relating to transcriptional regulation and/or 
+      development to each family, thus removing much of the ambiguity in identifying 
+      associated genes. We find that duplicate elements have the potential to 
+      up-regulate reporter gene expression in a tissue-specific manner and that 
+      expression domains often overlap, but are not necessarily identical, between 
+      family members. Over two thirds of the families are conserved in duplicate in 
+      fish and appear to predate the large-scale duplication events thought to have 
+      occurred at the origin of vertebrates. We propose a model whereby gene 
+      duplication and the evolution of cis-regulatory elements can be considered in the 
+      context of increased morphological diversity and the emergence of the modern 
+      vertebrate body plan.
+FAU - McEwen, Gayle K
+AU  - McEwen GK
+AD  - School of Biological and Chemical Sciences, Queen Mary, University of London, 
+      London E1 4NS, United Kingdom.
+FAU - Woolfe, Adam
+AU  - Woolfe A
+FAU - Goode, Debbie
+AU  - Goode D
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+FAU - Callaway, Heather
+AU  - Callaway H
+FAU - Elgar, Greg
+AU  - Elgar G
+LA  - eng
+GR  - G0401138/MRC_/Medical Research Council/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20060313
+PL  - United States
+TA  - Genome Res
+JT  - Genome research
+JID - 9518021
+SB  - IM
+MH  - Animals
+MH  - Body Patterning/genetics
+MH  - *Evolution, Molecular
+MH  - *Gene Duplication
+MH  - Gene Expression Regulation/*genetics
+MH  - Genome, Human/*genetics
+MH  - Humans
+MH  - Regulatory Elements, Transcriptional/*genetics
+MH  - Sequence Analysis, DNA/methods
+MH  - Takifugu/*genetics
+PMC - PMC1457030
+EDAT- 2006/03/15 09:00
+MHDA- 2006/06/07 09:00
+PMCR- 2006/10/01
+CRDT- 2006/03/15 09:00
+PHST- 2006/03/15 09:00 [pubmed]
+PHST- 2006/06/07 09:00 [medline]
+PHST- 2006/03/15 09:00 [entrez]
+PHST- 2006/10/01 00:00 [pmc-release]
+AID - gr.4143406 [pii]
+AID - 10.1101/gr.4143406 [doi]
+PST - ppublish
+SO  - Genome Res. 2006 Apr;16(4):451-65. doi: 10.1101/gr.4143406. Epub 2006 Mar 13.

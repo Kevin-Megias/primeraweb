@@ -1,0 +1,196 @@
+PMID- 29754954
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190917
+LR  - 20210109
+IS  - 1932-7420 (Electronic)
+IS  - 1550-4131 (Print)
+IS  - 1550-4131 (Linking)
+VI  - 27
+IP  - 6
+DP  - 2018 Jun 5
+TI  - The Polycomb-Dependent Epigenome Controls β Cell Dysfunction, Dedifferentiation, 
+      and Diabetes.
+PG  - 1294-1308.e7
+LID - S1550-4131(18)30256-0 [pii]
+LID - 10.1016/j.cmet.2018.04.013 [doi]
+AB  - To date, it remains largely unclear to what extent chromatin machinery 
+      contributes to the susceptibility and progression of complex diseases. Here, we 
+      combine deep epigenome mapping with single-cell transcriptomics to mine for 
+      evidence of chromatin dysregulation in type 2 diabetes. We find two 
+      chromatin-state signatures that track β cell dysfunction in mice and humans: 
+      ectopic activation of bivalent Polycomb-silenced domains and loss of expression 
+      at an epigenomically unique class of lineage-defining genes. β cell-specific 
+      Polycomb (Eed/PRC2) loss of function in mice triggers diabetes-mimicking 
+      transcriptional signatures and highly penetrant, hyperglycemia-independent 
+      dedifferentiation, indicating that PRC2 dysregulation contributes to disease. The 
+      work provides novel resources for exploring β cell transcriptional regulation and 
+      identifies PRC2 as necessary for long-term maintenance of β cell identity. 
+      Importantly, the data suggest a two-hit (chromatin and hyperglycemia) model for 
+      loss of β cell identity in diabetes.
+CI  - Copyright © 2018 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Lu, Tess Tsai-Hsiu
+AU  - Lu TT
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Heyne, Steffen
+AU  - Heyne S
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Dror, Erez
+AU  - Dror E
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Casas, Eduard
+AU  - Casas E
+AD  - Program for Predictive and Personalized Medicine of Cancer (PMPPC), Institute 
+      Germans Trias i Pujol, UAB, Badalona 08916, Spain.
+FAU - Leonhardt, Laura
+AU  - Leonhardt L
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany; Diabetes Center, Department of Medicine, University of 
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Boenke, Thorina
+AU  - Boenke T
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Yang, Chih-Hsiang
+AU  - Yang CH
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Sagar
+AU  - Sagar
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Arrigoni, Laura
+AU  - Arrigoni L
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Dalgaard, Kevin
+AU  - Dalgaard K
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Teperino, Raffaele
+AU  - Teperino R
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Enders, Lennart
+AU  - Enders L
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Selvaraj, Madhan
+AU  - Selvaraj M
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Ruf, Marius
+AU  - Ruf M
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Raja, Sunil J
+AU  - Raja SJ
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Xie, Huafeng
+AU  - Xie H
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute and Division of 
+      Hematology/Oncology, Boston Children's Hospital, Harvard Stem Cell Institute, 
+      Harvard Medical School, Boston, MA 02115, USA.
+FAU - Boenisch, Ulrike
+AU  - Boenisch U
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Orkin, Stuart H
+AU  - Orkin SH
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute and Division of 
+      Hematology/Oncology, Boston Children's Hospital, Harvard Stem Cell Institute, 
+      Harvard Medical School, Boston, MA 02115, USA.
+FAU - Lynn, Francis C
+AU  - Lynn FC
+AD  - Diabetes Research Program, BC Children's Hospital Research Institute, A4-184, 950 
+      West 28 Avenue, Vancouver, BC V5Z 4H4, Canada.
+FAU - Hoffman, Brad G
+AU  - Hoffman BG
+AD  - Diabetes Research Program, BC Children's Hospital Research Institute, A4-184, 950 
+      West 28 Avenue, Vancouver, BC V5Z 4H4, Canada.
+FAU - Grün, Dominic
+AU  - Grün D
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Program for Predictive and Personalized Medicine of Cancer (PMPPC), Institute 
+      Germans Trias i Pujol, UAB, Badalona 08916, Spain; Josep Carreras Leukaemia 
+      Research Institute (IJC), Campus ICO - Germans Trias i Pujol, Badalona 08916, 
+      Spain.
+FAU - Lempradl, Adelheid M
+AU  - Lempradl AM
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Pospisilik, J Andrew
+AU  - Pospisilik JA
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany. Electronic address: pospisilik@ie-freiburg.mpg.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20180510
+PL  - United States
+TA  - Cell Metab
+JT  - Cell metabolism
+JID - 101233170
+RN  - 0 (Chromatin)
+RN  - 0 (EED protein, human)
+RN  - 0 (Eed protein, mouse)
+RN  - 149025-06-9 (Myeloid-Lymphoid Leukemia Protein)
+RN  - EC 2.1.1.43 (Histone-Lysine N-Methyltransferase)
+RN  - EC 2.1.1.43 (Kmt2a protein, mouse)
+RN  - EC 2.1.1.43 (Polycomb Repressive Complex 2)
+SB  - IM
+CIN - Nat Rev Endocrinol. 2018 Aug;14(8):441. doi: 10.1038/s41574-018-0039-8. PMID: 
+      29875378
+MH  - Animals
+MH  - Cell Differentiation/genetics
+MH  - Cells, Cultured
+MH  - Chromatin/*metabolism
+MH  - Chromosome Mapping
+MH  - Diabetes Mellitus, Type 2/genetics/*metabolism
+MH  - *Diet, High-Fat
+MH  - Epigenomics
+MH  - *Gene Silencing
+MH  - Histone-Lysine N-Methyltransferase/genetics/metabolism
+MH  - Humans
+MH  - Hyperglycemia/genetics
+MH  - Insulin-Secreting Cells/*metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Knockout
+MH  - Myeloid-Lymphoid Leukemia Protein/genetics/metabolism
+MH  - Polycomb Repressive Complex 2/genetics/*physiology
+MH  - Single-Cell Analysis
+PMC - PMC5989056
+OTO - NOTNLM
+OT  - *Eed
+OT  - *Polycomb
+OT  - *cell identity
+OT  - *chromatin
+OT  - *complex diseases
+OT  - *de-differentiation
+OT  - *diabetes
+OT  - *epigenetic
+OT  - *type 2 diabetes
+OT  - *β cells
+EDAT- 2018/05/15 06:00
+MHDA- 2019/09/19 06:00
+PMCR- 2018/06/05
+CRDT- 2018/05/15 06:00
+PHST- 2017/10/13 00:00 [received]
+PHST- 2018/01/10 00:00 [revised]
+PHST- 2018/04/12 00:00 [accepted]
+PHST- 2018/05/15 06:00 [pubmed]
+PHST- 2019/09/19 06:00 [medline]
+PHST- 2018/05/15 06:00 [entrez]
+PHST- 2018/06/05 00:00 [pmc-release]
+AID - S1550-4131(18)30256-0 [pii]
+AID - 10.1016/j.cmet.2018.04.013 [doi]
+PST - ppublish
+SO  - Cell Metab. 2018 Jun 5;27(6):1294-1308.e7. doi: 10.1016/j.cmet.2018.04.013. Epub 
+      2018 May 10.

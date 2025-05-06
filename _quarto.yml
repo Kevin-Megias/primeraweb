@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: Publicaciones.qmd
+      - href: publicaciones.md
         text: Publicaciones
     right:
       - icon: twitter

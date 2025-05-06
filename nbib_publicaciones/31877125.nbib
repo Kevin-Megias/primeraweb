@@ -1,0 +1,165 @@
+PMID- 31877125
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20231112
+IS  - 1545-7885 (Electronic)
+IS  - 1544-9173 (Print)
+IS  - 1544-9173 (Linking)
+VI  - 17
+IP  - 12
+DP  - 2019 Dec
+TI  - Human sperm displays rapid responses to diet.
+PG  - e3000559
+LID - 10.1371/journal.pbio.3000559 [doi]
+LID - e3000559
+AB  - The global rise in obesity and steady decline in sperm quality are two alarming 
+      trends that have emerged during recent decades. In parallel, evidence from model 
+      organisms shows that paternal diet can affect offspring metabolic health in a 
+      process involving sperm tRNA-derived small RNA (tsRNA). Here, we report that 
+      human sperm are acutely sensitive to nutrient flux, both in terms of sperm 
+      motility and changes in sperm tsRNA. Over the course of a 2-week diet 
+      intervention, in which we first introduced a healthy diet followed by a diet rich 
+      in sugar, sperm motility increased and stabilized at high levels. Small RNA-seq 
+      on repeatedly sampled sperm from the same individuals revealed that tsRNAs were 
+      up-regulated by eating a high-sugar diet for just 1 week. Unsupervised clustering 
+      identified two independent pathways for the biogenesis of these tsRNAs: one 
+      involving a novel class of fragments with specific cleavage in the T-loop of 
+      mature nuclear tRNAs and the other exclusively involving mitochondrial tsRNAs. 
+      Mitochondrial involvement was further supported by a similar up-regulation of 
+      mitochondrial rRNA-derived small RNA (rsRNA). Notably, the changes in 
+      sugar-sensitive tsRNA were positively associated with simultaneous changes in 
+      sperm motility and negatively associated with obesity in an independent clinical 
+      cohort. This rapid response to a dietary intervention on tsRNA in human sperm is 
+      attuned with the paternal intergenerational metabolic responses found in model 
+      organisms. More importantly, our findings suggest shared diet-sensitive 
+      mechanisms between sperm motility and the biogenesis of tsRNA, which provide 
+      novel insights about the interplay between nutrition and male reproductive 
+      health.
+FAU - Nätt, Daniel
+AU  - Nätt D
+AUID- ORCID: 0000-0001-9182-9401
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+FAU - Kugelberg, Unn
+AU  - Kugelberg U
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+FAU - Casas, Eduard
+AU  - Casas E
+AUID- ORCID: 0000-0002-6001-1276
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Program for Predictive and 
+      Personalized Medicine of Cancer (PMPPC-IGTP), Barcelona, Spain.
+FAU - Nedstrand, Elizabeth
+AU  - Nedstrand E
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Obstetrics and Gynecology, Linköping, Sweden.
+FAU - Zalavary, Stefan
+AU  - Zalavary S
+AUID- ORCID: 0000-0001-5209-6655
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Obstetrics and Gynecology, Linköping, Sweden.
+FAU - Henriksson, Pontus
+AU  - Henriksson P
+AUID- ORCID: 0000-0003-2482-7048
+AD  - Karolinska Institute, Department of Biosciences and Nutrition, Huddinge, Sweden.
+AD  - Linköping University, Department of Medical and Health Sciences, Division of 
+      Community Medicine, Linköping, Sweden.
+FAU - Nijm, Carola
+AU  - Nijm C
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Obstetrics and Gynecology, Linköping, Sweden.
+FAU - Jäderquist, Julia
+AU  - Jäderquist J
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Obstetrics and Gynecology, Linköping, Sweden.
+FAU - Sandborg, Johanna
+AU  - Sandborg J
+AUID- ORCID: 0000-0003-0389-9333
+AD  - Karolinska Institute, Department of Biosciences and Nutrition, Huddinge, Sweden.
+AD  - Linköping University, Department of Medical and Health Sciences, Division of 
+      Community Medicine, Linköping, Sweden.
+FAU - Flinke, Eva
+AU  - Flinke E
+AD  - Linköping University, Department of Medical and Health Sciences, Division of 
+      Community Medicine, Linköping, Sweden.
+FAU - Ramesh, Rashmi
+AU  - Ramesh R
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+FAU - Örkenby, Lovisa
+AU  - Örkenby L
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+FAU - Appelkvist, Filip
+AU  - Appelkvist F
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+FAU - Lingg, Thomas
+AU  - Lingg T
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+FAU - Guzzi, Nicola
+AU  - Guzzi N
+AD  - Lund University, Stem Cell Center, Department of Laboratory Medicine, Division of 
+      Molecular Hematology, Lund, Sweden.
+FAU - Bellodi, Cristian
+AU  - Bellodi C
+AUID- ORCID: 0000-0001-8047-5329
+AD  - Lund University, Stem Cell Center, Department of Laboratory Medicine, Division of 
+      Molecular Hematology, Lund, Sweden.
+FAU - Löf, Marie
+AU  - Löf M
+AUID- ORCID: 0000-0002-2273-4430
+AD  - Karolinska Institute, Department of Biosciences and Nutrition, Huddinge, Sweden.
+AD  - Linköping University, Department of Medical and Health Sciences, Division of 
+      Community Medicine, Linköping, Sweden.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AUID- ORCID: 0000-0003-2352-9049
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Program for Predictive and 
+      Personalized Medicine of Cancer (PMPPC-IGTP), Barcelona, Spain.
+FAU - Öst, Anita
+AU  - Öst A
+AUID- ORCID: 0000-0003-0547-1904
+AD  - Linköping University, Department of Clinical and Experimental Medicine, Division 
+      of Neurobiology, Linkoping, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191226
+PL  - United States
+TA  - PLoS Biol
+JT  - PLoS biology
+JID - 101183755
+RN  - 63231-63-0 (RNA)
+RN  - 9014-25-9 (RNA, Transfer)
+SB  - IM
+CIN - Nat Rev Endocrinol. 2020 Apr;16(4):200-201. doi: 10.1038/s41574-020-0331-2. PMID: 
+      32066893
+MH  - Adult
+MH  - Diet/*methods
+MH  - Humans
+MH  - Male
+MH  - Obesity/metabolism
+MH  - RNA/drug effects/genetics
+MH  - RNA, Transfer/drug effects/genetics
+MH  - Sperm Motility/*drug effects/physiology
+MH  - Spermatozoa/*drug effects/metabolism/physiology
+PMC - PMC6932762
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2019/12/27 06:00
+MHDA- 2020/03/21 06:00
+PMCR- 2019/12/26
+CRDT- 2019/12/27 06:00
+PHST- 2019/05/16 00:00 [received]
+PHST- 2019/11/18 00:00 [accepted]
+PHST- 2019/12/27 06:00 [entrez]
+PHST- 2019/12/27 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+PHST- 2019/12/26 00:00 [pmc-release]
+AID - PBIOLOGY-D-19-01390 [pii]
+AID - 10.1371/journal.pbio.3000559 [doi]
+PST - epublish
+SO  - PLoS Biol. 2019 Dec 26;17(12):e3000559. doi: 10.1371/journal.pbio.3000559. 
+      eCollection 2019 Dec.

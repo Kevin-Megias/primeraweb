@@ -1,0 +1,148 @@
+PMID- 25480298
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150212
+LR  - 20141206
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+VI  - 159
+IP  - 6
+DP  - 2014 Dec 4
+TI  - Paternal diet defines offspring chromatin state and intergenerational obesity.
+PG  - 1352-64
+LID - S0092-8674(14)01436-6 [pii]
+LID - 10.1016/j.cell.2014.11.005 [doi]
+AB  - The global rise in obesity has revitalized a search for genetic and epigenetic 
+      factors underlying the disease. We present a Drosophila model of 
+      paternal-diet-induced intergenerational metabolic reprogramming (IGMR) and 
+      identify genes required for its encoding in offspring. Intriguingly, we find that 
+      as little as 2 days of dietary intervention in fathers elicits obesity in 
+      offspring. Paternal sugar acts as a physiological suppressor of variegation, 
+      desilencing chromatin-state-defined domains in both mature sperm and in offspring 
+      embryos. We identify requirements for H3K9/K27me3-dependent reprogramming of 
+      metabolic genes in two distinct germline and zygotic windows. Critically, we find 
+      evidence that a similar system may regulate obesity susceptibility and phenotype 
+      variation in mice and humans. The findings provide insight into the mechanisms 
+      underlying intergenerational metabolic reprogramming and carry profound 
+      implications for our understanding of phenotypic variation and evolution.
+CI  - Copyright © 2014 Elsevier Inc. All rights reserved.
+FAU - Öst, Anita
+AU  - Öst A
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany; Department of Clinical and Experimental Medicine, Linkoping 
+      University, 58183 Linkoping, Sweden. Electronic address: anita.ost@liu.se.
+FAU - Lempradl, Adelheid
+AU  - Lempradl A
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Casas, Eduard
+AU  - Casas E
+AD  - Institut de Medicina Predictiva i Personalitzada del Càncer, Can Ruti Campus, 
+      Ctra. de Can Ruti, Camí de les Escoles s/n, 08916 Badalona, Barcelona, Spain; 
+      Josep Carreras Leukaemia Research Institute (IJC), ICO-Hospital GermansTrias i 
+      Pujol, 08916 Badalona, Barcelona, Spain.
+FAU - Weigert, Melanie
+AU  - Weigert M
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Tiko, Theodor
+AU  - Tiko T
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Deniz, Merdin
+AU  - Deniz M
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Pantano, Lorena
+AU  - Pantano L
+AD  - Institut de Medicina Predictiva i Personalitzada del Càncer, Can Ruti Campus, 
+      Ctra. de Can Ruti, Camí de les Escoles s/n, 08916 Badalona, Barcelona, Spain.
+FAU - Boenisch, Ulrike
+AU  - Boenisch U
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Itskov, Pavel M
+AU  - Itskov PM
+AD  - Champalimaud Neuroscience Programme, Champalimaud Centre for the Unknown, 
+      1400-038 Lisbon, Portugal.
+FAU - Stoeckius, Marlon
+AU  - Stoeckius M
+AD  - Systems Biology of Gene Regulatory Elements, Max-Delbrück-Center for Molecular 
+      Medicine, Robert-Rössle-Strasse 10, 13125 Berlin, Germany.
+FAU - Ruf, Marius
+AU  - Ruf M
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Rajewsky, Nikolaus
+AU  - Rajewsky N
+AD  - Systems Biology of Gene Regulatory Elements, Max-Delbrück-Center for Molecular 
+      Medicine, Robert-Rössle-Strasse 10, 13125 Berlin, Germany.
+FAU - Reuter, Gunter
+AU  - Reuter G
+AD  - Institute of Biology, Developmental Genetics, Martin Luther University Halle, 
+      06120 Halle, Germany.
+FAU - Iovino, Nicola
+AU  - Iovino N
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Ribeiro, Carlos
+AU  - Ribeiro C
+AD  - Champalimaud Neuroscience Programme, Champalimaud Centre for the Unknown, 
+      1400-038 Lisbon, Portugal.
+FAU - Alenius, Mattias
+AU  - Alenius M
+AD  - Department of Clinical and Experimental Medicine, Linkoping University, 58183 
+      Linkoping, Sweden.
+FAU - Heyne, Steffen
+AU  - Heyne S
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Institut de Medicina Predictiva i Personalitzada del Càncer, Can Ruti Campus, 
+      Ctra. de Can Ruti, Camí de les Escoles s/n, 08916 Badalona, Barcelona, Spain; 
+      Josep Carreras Leukaemia Research Institute (IJC), ICO-Hospital GermansTrias i 
+      Pujol, 08916 Badalona, Barcelona, Spain.
+FAU - Pospisilik, J Andrew
+AU  - Pospisilik JA
+AD  - Max Planck Institute of Immunobiology and Epigenetics, Stuebeweg 51, 79108 
+      Freiburg, Germany. Electronic address: pospisilik@ie-freiburg.mpg.de.
+LA  - eng
+SI  - GEO/GSE62668
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Heterochromatin)
+SB  - IM
+MH  - Animals
+MH  - Carbohydrate Metabolism
+MH  - Diet
+MH  - *Disease Models, Animal
+MH  - Drosophila melanogaster/*genetics/*metabolism
+MH  - Embryo, Nonmammalian/metabolism
+MH  - *Epigenesis, Genetic
+MH  - Eye Color
+MH  - Female
+MH  - Genetic Predisposition to Disease
+MH  - Heterochromatin/metabolism
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Obesity/*genetics/metabolism
+MH  - Spermatozoa/metabolism
+EDAT- 2014/12/07 06:00
+MHDA- 2015/02/13 06:00
+CRDT- 2014/12/07 06:00
+PHST- 2014/03/25 00:00 [received]
+PHST- 2014/08/27 00:00 [revised]
+PHST- 2014/10/31 00:00 [accepted]
+PHST- 2014/12/07 06:00 [entrez]
+PHST- 2014/12/07 06:00 [pubmed]
+PHST- 2015/02/13 06:00 [medline]
+AID - S0092-8674(14)01436-6 [pii]
+AID - 10.1016/j.cell.2014.11.005 [doi]
+PST - ppublish
+SO  - Cell. 2014 Dec 4;159(6):1352-64. doi: 10.1016/j.cell.2014.11.005.

@@ -1,0 +1,128 @@
+PMID- 27999094
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180104
+LR  - 20220318
+IS  - 1549-5469 (Electronic)
+IS  - 1088-9051 (Print)
+IS  - 1088-9051 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2017 Jan
+TI  - The epigenetic landscape of Alu repeats delineates the structural and functional 
+      genomic architecture of colon cancer cells.
+PG  - 118-132
+LID - 10.1101/gr.207522.116 [doi]
+AB  - Cancer cells exhibit multiple epigenetic changes with prominent local DNA 
+      hypermethylation and widespread hypomethylation affecting large chromosomal 
+      domains. Epigenome studies often disregard the study of repeat elements owing to 
+      technical complexity and their undefined role in genome regulation. We have 
+      developed NSUMA (Next-generation Sequencing of UnMethylated Alu), a 
+      cost-effective approach allowing the unambiguous interrogation of DNA methylation 
+      in more than 130,000 individual Alu elements, the most abundant retrotransposon 
+      in the human genome. DNA methylation profiles of Alu repeats have been analyzed 
+      in colon cancers and normal tissues using NSUMA and whole-genome bisulfite 
+      sequencing. Normal cells show a low proportion of unmethylated Alu (1%-4%) that 
+      may increase up to 10-fold in cancer cells. In normal cells, unmethylated Alu 
+      elements tend to locate in the vicinity of functionally rich regions and display 
+      epigenetic features consistent with a direct impact on genome regulation. In 
+      cancer cells, Alu repeats are more resistant to hypomethylation than other 
+      retroelements. Genome segmentation based on high/low rates of Alu hypomethylation 
+      allows the identification of genomic compartments with differential genetic, 
+      epigenetic, and transcriptomic features. Alu hypomethylated regions show low 
+      transcriptional activity, late DNA replication, and its extent is associated with 
+      higher chromosomal instability. Our analysis demonstrates that Alu retroelements 
+      contribute to define the epigenetic landscape of normal and cancer cells and 
+      provides a unique resource on the epigenetic dynamics of a principal, but largely 
+      unexplored, component of the primate genome.
+CI  - © 2017 Jordà et al.; Published by Cold Spring Harbor Laboratory Press.
+FAU - Jordà, Mireia
+AU  - Jordà M
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+FAU - Díez-Villanueva, Anna
+AU  - Díez-Villanueva A
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+FAU - Mallona, Izaskun
+AU  - Mallona I
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+FAU - Martín, Berta
+AU  - Martín B
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+FAU - Lois, Sergi
+AU  - Lois S
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+FAU - Barrera, Víctor
+AU  - Barrera V
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+FAU - Esteller, Manel
+AU  - Esteller M
+AD  - Cancer Epigenetics and Biology Program (PEBC), Bellvitge Biomedical Research 
+      Institute (IDIBELL), Barcelona 08908, Catalonia, Spain.
+AD  - Department of Physiological Sciences II, School of Medicine, University of 
+      Barcelona, Barcelona 08907, Catalonia, Spain.
+AD  - Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona 08010, 
+      Catalonia, Spain.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Josep Carreras Leukaemia Research Institute (IJC), Badalona 08916, Catalonia, 
+      Spain.
+FAU - Peinado, Miguel A
+AU  - Peinado MA
+AUID- ORCID: 0000-0002-4090-793X
+AD  - Germans Trias i Pujol Health Science Research Institute (IGTP), Badalona 08916, 
+      Catalonia, Spain.
+AD  - Institute of Predictive and Personalized Medicine of Cancer (IMPPC), Badalona 
+      08916, Catalonia, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20161220
+PL  - United States
+TA  - Genome Res
+JT  - Genome research
+JID - 9518021
+SB  - IM
+MH  - Alu Elements/*genetics
+MH  - Colonic Neoplasms/*genetics
+MH  - CpG Islands/genetics
+MH  - DNA Methylation/genetics
+MH  - *Epigenesis, Genetic
+MH  - Genome, Human/*genetics
+MH  - Genomics
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+PMC - PMC5204336
+EDAT- 2016/12/22 06:00
+MHDA- 2018/01/05 06:00
+PMCR- 2017/07/01
+CRDT- 2016/12/22 06:00
+PHST- 2016/03/24 00:00 [received]
+PHST- 2016/11/10 00:00 [accepted]
+PHST- 2016/12/22 06:00 [pubmed]
+PHST- 2018/01/05 06:00 [medline]
+PHST- 2016/12/22 06:00 [entrez]
+PHST- 2017/07/01 00:00 [pmc-release]
+AID - gr.207522.116 [pii]
+AID - 10.1101/gr.207522.116 [doi]
+PST - ppublish
+SO  - Genome Res. 2017 Jan;27(1):118-132. doi: 10.1101/gr.207522.116. Epub 2016 Dec 20.

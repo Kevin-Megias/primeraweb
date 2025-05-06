@@ -1,0 +1,63 @@
+PMID- 15950456
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050906
+LR  - 20081121
+IS  - 0959-437X (Print)
+IS  - 0959-437X (Linking)
+VI  - 15
+IP  - 4
+DP  - 2005 Aug
+TI  - Prediction of cis-regulatory elements using binding site matrices--the successes, 
+      the failures and the reasons for both.
+PG  - 395-402
+AB  - Protein-DNA interactions control many aspects of animal development and cellular 
+      responses to the environment. Although profiling of individual transcription 
+      factor binding sites is not a reliable guide for predicting the position of 
+      cis-regulatory elements in large genomes, modelling the evolution and the 
+      organization of regulatory elements has provided enough information to make some 
+      successful predictions. For vertebrate genomes, the field is limited by the lack 
+      of sufficient experimental data upon which to build reliable models. Nonetheless, 
+      a combination of experimental, computational and comparative data is likely to 
+      reveal aspects of complex regulatory networks in vertebrates, just as it has 
+      already done for simple eukaryotic genomes.
+FAU - Vavouri, Tanya
+AU  - Vavouri T
+AD  - Comparative Genomics Group, MRC Rosalind Franklin Centre for Genomics Research, 
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SB, UK.
+FAU - Elgar, Greg
+AU  - Elgar G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - Curr Opin Genet Dev
+JT  - Current opinion in genetics & development
+JID - 9111375
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - Base Sequence
+MH  - Binding Sites/genetics
+MH  - Conserved Sequence/genetics
+MH  - Enhancer Elements, Genetic/*genetics
+MH  - Evolution, Molecular
+MH  - Gene Expression Regulation, Developmental
+MH  - Humans
+MH  - Molecular Sequence Data
+MH  - Sequence Homology, Nucleic Acid
+MH  - Transcription Factors/*metabolism
+RF  - 74
+EDAT- 2005/06/14 09:00
+MHDA- 2005/09/07 09:00
+CRDT- 2005/06/14 09:00
+PHST- 2005/03/07 00:00 [received]
+PHST- 2005/05/23 00:00 [accepted]
+PHST- 2005/06/14 09:00 [pubmed]
+PHST- 2005/09/07 09:00 [medline]
+PHST- 2005/06/14 09:00 [entrez]
+AID - S0959-437X(05)00092-4 [pii]
+AID - 10.1016/j.gde.2005.05.002 [doi]
+PST - ppublish
+SO  - Curr Opin Genet Dev. 2005 Aug;15(4):395-402. doi: 10.1016/j.gde.2005.05.002.
