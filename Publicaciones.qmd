@@ -124,19 +124,6 @@ La mayoría de los fenotipos son genéticamente complejos, con contribuciones de
 
 <details>
 
-<summary><strong>Predicting genetic modifier loci using functional gene networks</strong></summary>
-
-**Autores:** Lee I, Lehner B, Vavouri T, Shin J, Fraser AG, Marcotte EM\
-**Publicado en:** Genome Research, 2010\
-**PMID:** [20538624](https://pubmed.ncbi.nlm.nih.gov/20538624)
-
-**Resumen:**\
-La mayoría de los fenotipos son genéticamente complejos, con contribuciones de mutaciones en muchos genes diferentes. Las mutaciones en más de un gen pueden combinarse sinérgicamente para causar un cambio fenotípico, y los estudios sistemáticos en organismos modelo muestran que estas interacciones genéticas son generalizadas. Sin embargo, en los estudios de asociación humana, tales interacciones genéticas no aditivas son muy difíciles de identificar debido a la falta de poder estadístico. Una forma de resolver esto es predecir las interacciones modificadoras entre loci y luego probar específicamente estas asociaciones con el fenotipo. Aquí, describimos un método general para predecir interacciones genéticas utilizando redes funcionales de genes integradas. Mostramos que, tanto en *Saccharomyces cerevisiae* como en *Caenorhabditis elegans*, una sola red funcional de alta cobertura y alta calidad puede predecir con éxito modificadores genéticos para la mayoría de los genes. Para *C. elegans*, también describimos la construcción de una nueva y mejorada red funcional, WormNet 2. Usando esta red, demostramos cómo es posible expandir rápidamente el número de loci modificadores conocidos para un gen, prediciendo y validando nuevas interacciones genéticas para tres genes de transducción de señales. Proponemos que este enfoque, denominado "cribado de modificadores guiado por red", proporciona una estrategia general para predecir interacciones genéticas. Este trabajo sugiere que una red integrada de genes humanos de alta calidad será un recurso poderoso para el descubrimiento de loci modificadores en diversas enfermedades.
-
-</details>
-
-<details>
-
 <summary><strong>Human genes with CpG island promoters have a distinct transcription-associated chromatin organization</strong></summary>
 
 **Autores:** Vavouri T, Lehner B\
