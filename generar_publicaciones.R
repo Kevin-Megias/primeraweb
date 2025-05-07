@@ -28,7 +28,7 @@ leer_nbib <- function(path) {
     if (clave %in% names(datos)) {
       gsub("\\|", " ", datos[[clave]])
     } else {
-      "No disponible"
+      NA
     }
   }
   
@@ -42,7 +42,7 @@ leer_nbib <- function(path) {
   
   # Extraer datos relevantes
   titulo <- get_single("TI")
-  if (titulo == "No disponible") return(NULL)
+  if (is.na(titulo)) return(NULL)
   
   autores_fau <- get_multiple("FAU")
   autores_au <- get_multiple("AU")
@@ -53,11 +53,34 @@ leer_nbib <- function(path) {
   
   # Extraer DOI desde línea que contiene 'doi:'
   doi_line <- grep("doi: 10\\.", lineas, value = TRUE)
-  enlace_doi <- "No disponible"
+  enlace_doi <- NA
   if (length(doi_line) > 0) {
     doi_raw <- sub(".*doi: (10\\.[^ ]+?)\\.*\\s*$", "\\1", doi_line[1])
     enlace_doi <- paste0("https://doi.org/", doi_raw)
   }
+  
+  # Extraer PMID
+  pmid_line <- grep("^PMID- ", lineas, value = TRUE)
+  enlace_pmid <- NA
+  if (length(pmid_line) > 0) {
+    pmid <- sub("^PMID- ", "", pmid_line[1])
+    enlace_pmid <- paste0("https://pubmed.ncbi.nlm.nih.gov/", pmid, "/")
+  }
+  
+  # Crear enlaces HTML si están disponibles
+  link_doi <- if (!is.na(enlace_doi)) {
+    glue('<a href="{enlace_doi}" target="_blank">DOI</a>')
+  } else {
+    ""
+  }
+  
+  link_pmid <- if (!is.na(enlace_pmid)) {
+    glue('<a href="{enlace_pmid}" target="_blank">PubMed</a>')
+  } else {
+    ""
+  }
+  
+  enlaces_html <- paste(link_doi, link_pmid, sep = " | ")
   
   # Crear bloque en HTML con <details>
   bloque <- glue(
@@ -70,7 +93,8 @@ leer_nbib <- function(path) {
 
 <br><br>
 
-**Enlace a la revista:** <a href="{enlace_doi}" target="_blank">{enlace_doi}</a>
+**Enlaces:**<br>
+{enlaces_html}
 
 <br><br>
 
