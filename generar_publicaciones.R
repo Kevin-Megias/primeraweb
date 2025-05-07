@@ -12,7 +12,7 @@ leer_nbib <- function(path) {
   # Unir líneas continuadas (que empiezan con espacios)
   for (i in length(lineas):2) {
     if (grepl("^\\s", lineas[i])) {
-      lineas[i-1] <- paste0(lineas[i-1], " ", trimws(lineas[i]))
+      lineas[i - 1] <- paste0(lineas[i - 1], " ", trimws(lineas[i]))
       lineas <- lineas[-i]
     }
   }
@@ -40,7 +40,7 @@ leer_nbib <- function(path) {
     }
   }
   
-  # Extraer datos
+  # Extraer datos relevantes
   titulo <- get_single("TI")
   if (titulo == "No disponible") return(NULL)
   
@@ -50,19 +50,33 @@ leer_nbib <- function(path) {
   autores <- if (length(autores_all) > 0) paste(autores_all, collapse = ", ") else "No disponible"
   
   resumen <- get_single("AB")
-  pmid <- get_single("PMID")
-  enlace_pubmed <- if (pmid != "No disponible") paste0("https://pubmed.ncbi.nlm.nih.gov/", pmid, "/") else "No disponible"
+  
+  # Extraer DOI desde línea que contiene 'doi:'
+  doi_line <- grep("doi: 10\\.", lineas, value = TRUE)
+  enlace_doi <- "No disponible"
+  if (length(doi_line) > 0) {
+    doi_raw <- sub(".*doi: (10\\.[^ ]+?)\\.*\\s*$", "\\1", doi_line[1])
+    enlace_doi <- paste0("https://doi.org/", doi_raw)
+  }
   
   # Crear bloque en HTML con <details>
   bloque <- glue(
     '<details>
-  <summary><strong>{titulo}</strong></summary>
+<summary><strong>{titulo}</strong></summary>
 
-  **Autores:** {autores}  
-  **PMID:** [{pmid}]({enlace_pubmed})
+<br>
 
-  **Resumen:**  
-  {resumen}
+**Autores:**<br> {autores}
+
+<br><br>
+
+**Enlace a la revista:** <a href="{enlace_doi}" target="_blank">{enlace_doi}</a>
+
+<br><br>
+
+**Resumen:**<br> {resumen}
+
+<br><br>
 
 </details>\n'
   )
