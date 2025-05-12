@@ -1,15 +1,11 @@
-# Cargar librería necesaria
 library(glue)
 
-# Ruta donde están los archivos .nbib
 carpeta <- "nbib_publicaciones"
 archivos <- list.files(carpeta, pattern = "\\.nbib$", full.names = TRUE)
 
-# Función para leer y procesar cada archivo .nbib
 leer_nbib <- function(path) {
   lineas <- readLines(path, warn = FALSE)
   
-  # Unir líneas continuadas (que empiezan con espacios)
   for (i in length(lineas):2) {
     if (grepl("^\\s", lineas[i])) {
       lineas[i - 1] <- paste0(lineas[i - 1], " ", trimws(lineas[i]))
@@ -17,13 +13,11 @@ leer_nbib <- function(path) {
     }
   }
   
-  # Extraer campos y valores
   campos <- sub("^(\\w{2,4})  -\\s+", "\\1|", lineas)
   claves <- sub("\\|.*", "", campos)
   valores <- sub(".*?\\|", "", campos)
   datos <- tapply(valores, claves, function(x) paste(x, collapse = "|"))
   
-  # Funciones auxiliares
   get_single <- function(clave) {
     if (clave %in% names(datos)) {
       gsub("\\|", " ", datos[[clave]])
@@ -40,7 +34,6 @@ leer_nbib <- function(path) {
     }
   }
   
-  # Extraer datos relevantes
   titulo <- get_single("TI")
   if (is.na(titulo)) return(NULL)
   
@@ -51,7 +44,6 @@ leer_nbib <- function(path) {
   
   resumen <- get_single("AB")
   
-  # Extraer DOI desde distintas fuentes
   doi_line <- grep("(doi: 10\\.|10\\.\\d+/.*\\[doi\\])", lineas, value = TRUE)
   enlace_doi <- NA
   if (length(doi_line) > 0) {
@@ -64,7 +56,6 @@ leer_nbib <- function(path) {
     enlace_doi <- paste0("https://doi.org/", doi_clean)
   }
   
-  # Extraer PMID
   pmid_line <- grep("^PMID- ", lineas, value = TRUE)
   enlace_pmid <- NA
   if (length(pmid_line) > 0) {
@@ -72,7 +63,6 @@ leer_nbib <- function(path) {
     enlace_pmid <- paste0("https://pubmed.ncbi.nlm.nih.gov/", pmid, "/")
   }
   
-  # Crear enlaces HTML si están disponibles
   link_doi <- if (!is.na(enlace_doi)) {
     glue('<a href="{enlace_doi}" target="_blank">DOI</a>')
   } else {
@@ -86,9 +76,8 @@ leer_nbib <- function(path) {
   }
   
   enlaces_html <- paste(link_doi, link_pmid, sep = " | ")
-  enlaces_html <- gsub("^\\s*\\|\\s*|\\s*\\|\\s*$", "", enlaces_html) # Limpia separadores extra
+  enlaces_html <- gsub("^\\s*\\|\\s*|\\s*\\|\\s*$", "", enlaces_html) 
   
-  # Crear bloque en HTML con <details>
   bloque <- glue(
     '<details>
 <summary><strong>{titulo}</strong></summary>
@@ -114,7 +103,6 @@ leer_nbib <- function(path) {
   return(bloque)
 }
 
-# Procesar todos los archivos y guardar en Markdown
 bloques_md <- lapply(archivos, leer_nbib)
 bloques_md <- bloques_md[!sapply(bloques_md, is.null)]
 writeLines(unlist(bloques_md), "publicaciones.md")
