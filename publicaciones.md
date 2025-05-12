@@ -28,7 +28,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - PLoS Biol. 2005 Jan;3(1):e7. doi: 10.1371/journal.pbio.0030007. Epub 2004 Nov 11." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/15630479/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1371/journal.pbio.0030007" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/15630479/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -48,7 +48,7 @@
 
 <br><br>
 
-**Enlaces:**<br> \| <a href="https://pubmed.ncbi.nlm.nih.gov/15647795/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://pubmed.ncbi.nlm.nih.gov/15647795/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -88,7 +88,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Trends Genet. 2006 Jan;22(1):5-10. doi: 10.1016/j.tig.2005.10.005. Epub 2005 Nov  10." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/16290136/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.tig.2005.10.005" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/16290136/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -108,7 +108,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Genome Res. 2006 Apr;16(4):451-65. doi: 10.1101/gr.4143406. Epub 2006 Mar 13." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/16533910/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1101/gr.4143406" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/16533910/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -148,7 +148,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/CIN - BMC Syst Biol. 2009 Jan 30;3:16. doi: 10.1186/1752-0509-3-16. PMID: 19183469" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/18171472/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1186/1752-0509-2-1" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/18171472/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -168,7 +168,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Trends Genet. 2008 Jul;24(7):344-52. doi: 10.1016/j.tig.2008.04.005. Epub 2008  May 29." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/18514361/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.tig.2008.04.005" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/18514361/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -188,7 +188,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Trends Genet. 2008 Oct;24(10):485-8. doi: 10.1016/j.tig.2008.08.005. Epub 2008  Sep 9." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/18786741/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.tig.2008.08.005" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/18786741/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -228,7 +228,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/CIN - Cell. 2009 Jul 10;138(1):16-8. doi: 10.1016/j.cell.2009.06.024. PMID: 19596229" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/19596244/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.cell.2009.04.029" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/19596244/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -248,7 +248,7 @@
 
 <br><br>
 
-**Enlaces:**<br> \| <a href="https://pubmed.ncbi.nlm.nih.gov/20483234/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.cbd.2005.03.001" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/20483234/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -268,7 +268,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Genome Res. 2010 Aug;20(8):1143-53. doi: 10.1101/gr.102749.109. Epub 2010 Jun 9." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/20538624/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1101/gr.102749.109" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/20538624/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -288,7 +288,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - PLoS Genet. 2011 Apr;7(4):e1002036. doi: 10.1371/journal.pgen.1002036. Epub 2011  Apr 7." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/21490963/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1371/journal.pgen.1002036" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/21490963/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -328,7 +328,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - PLoS Genet. 2013 Nov;9(11):e1003904. doi: 10.1371/journal.pgen.1003904. Epub 2013  Nov 21." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/24282393/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1371/journal.pgen.1003904" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/24282393/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -348,7 +348,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Mol Hum Reprod. 2014 Nov;20(11):1041-53. doi: 10.1093/molehr/gau079. Epub 2014  Sep 5." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/25193639/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1093/molehr/gau079" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/25193639/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -368,7 +368,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Front Genet. 2014 Sep 18;5:330. doi: 10.3389/fgene.2014.00330. eCollection 2014." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/25278962/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.3389/fgene.2014.00330" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/25278962/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -408,7 +408,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - RNA. 2015 Jun;21(6):1085-95. doi: 10.1261/rna.046482.114. Epub 2015 Apr 22." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/25904136/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1261/rna.046482.114" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/25904136/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -428,7 +428,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/CIN - Cell. 2016 Jan 28;164(3):341-2. doi: 10.1016/j.cell.2016.01.006. PMID: 26824648" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/26824653/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.cell.2015.12.025" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/26824653/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -448,7 +448,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/CIN - J Invest Dermatol. 2016 Dec;136(12):2337-2339. doi: 10.1016/j.jid.2016.06.628.  PMID: 27884288" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/27365293/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.jid.2016.05.122" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/27365293/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -468,7 +468,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Genome Res. 2017 Jan;27(1):118-132. doi: 10.1101/gr.207522.116. Epub 2016 Dec 20." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/27999094/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1101/gr.207522.116" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/27999094/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -508,7 +508,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/SO  - Sci Adv. 2017 Aug 16;3(8):e1701143. doi: 10.1126/sciadv.1701143. eCollection 2017  Aug." target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/28835928/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1126/sciadv.1701143" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/28835928/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -548,7 +548,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/CIN - Nat Rev Endocrinol. 2018 Aug;14(8):441. doi: 10.1038/s41574-018-0039-8. PMID:  29875378" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/29754954/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1016/j.cmet.2018.04.013" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/29754954/" target="_blank">PubMed</a>
 
 <br><br>
 
@@ -588,7 +588,7 @@
 
 <br><br>
 
-**Enlaces:**<br> <a href="https://doi.org/CIN - Nat Rev Endocrinol. 2020 Apr;16(4):200-201. doi: 10.1038/s41574-020-0331-2. PMID:  32066893" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/31877125/" target="_blank">PubMed</a>
+**Enlaces:**<br> <a href="https://doi.org/10.1371/journal.pbio.3000559" target="_blank">DOI</a> \| <a href="https://pubmed.ncbi.nlm.nih.gov/31877125/" target="_blank">PubMed</a>
 
 <br><br>
 

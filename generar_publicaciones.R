@@ -51,12 +51,17 @@ leer_nbib <- function(path) {
   
   resumen <- get_single("AB")
   
-  # Extraer DOI desde línea que contiene 'doi:'
-  doi_line <- grep("doi: 10\\.", lineas, value = TRUE)
+  # Extraer DOI desde distintas fuentes
+  doi_line <- grep("(doi: 10\\.|10\\.\\d+/.*\\[doi\\])", lineas, value = TRUE)
   enlace_doi <- NA
   if (length(doi_line) > 0) {
-    doi_raw <- sub(".*doi: (10\\.[^ ]+?)\\.*\\s*$", "\\1", doi_line[1])
-    enlace_doi <- paste0("https://doi.org/", doi_raw)
+    if (grepl("doi: 10\\.", doi_line[1])) {
+      doi_raw <- sub(".*doi: (10\\.[^ ]+).*", "\\1", doi_line[1])
+    } else {
+      doi_raw <- sub("^.*?(10\\.\\d+/[^ ]+).*\\[doi\\].*$", "\\1", doi_line[1])
+    }
+    doi_clean <- sub("\\.(?=\\s|$)", "", doi_raw, perl = TRUE)
+    enlace_doi <- paste0("https://doi.org/", doi_clean)
   }
   
   # Extraer PMID
@@ -81,6 +86,7 @@ leer_nbib <- function(path) {
   }
   
   enlaces_html <- paste(link_doi, link_pmid, sep = " | ")
+  enlaces_html <- gsub("^\\s*\\|\\s*|\\s*\\|\\s*$", "", enlaces_html) # Limpia separadores extra
   
   # Crear bloque en HTML con <details>
   bloque <- glue(
