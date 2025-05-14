@@ -92,14 +92,8 @@ leer_nbib <- function(path) {
   return(bloque)
 }
 
-
-bloques <- lapply(archivos, leer_nbib)
-bloques <- bloques[!sapply(bloques, is.null)]
-
-bloques_ordenados <- bloques[order(sapply(bloques, `[[`, "anio"), decreasing = TRUE)]
-
-bloques_md <- sapply(bloques_ordenados, `[[`, "html")
+bloques_md <- lapply(archivos, leer_nbib)
+bloques_md <- bloques_md[!sapply(bloques_md, is.null)]
 writeLines(unlist(bloques_md), "publicaciones.md")
-
 
 message("✅ Se generaron ", length(bloques_md), " publicaciones correctamente.")
