@@ -34,6 +34,7 @@ leer_nbib <- function(path) {
     }
   }
   
+  
   titulo <- get_single("TI")
   if (is.na(titulo)) return(NULL)
   
@@ -92,8 +93,24 @@ leer_nbib <- function(path) {
   return(bloque)
 }
 
-bloques_md <- lapply(archivos, leer_nbib)
-bloques_md <- bloques_md[!sapply(bloques_md, is.null)]
+bloques <- lapply(archivos, function(path) {
+  bloque <- leer_nbib(path)
+  if (is.null(bloque)) return(NULL)
+  
+  lineas <- readLines(path, warn = FALSE)
+  dp_line <- grep("^DP  - ", lineas, value = TRUE)
+  anio <- if (length(dp_line) > 0) {
+    as.numeric(sub("^DP  - (\\d{4}).*", "\\1", dp_line[1]))
+  } else {
+    NA
+  }
+  list(html = bloque, anio = anio)
+})
+
+bloques <- bloques[!sapply(bloques, is.null)]
+bloques_ordenados <- bloques[order(sapply(bloques, `[[`, "anio"), decreasing = TRUE)]
+bloques_md <- sapply(bloques_ordenados, `[[`, "html")
+
 writeLines(unlist(bloques_md), "publicaciones.md")
 
 message("✅ Se generaron ", length(bloques_md), " publicaciones correctamente.")
