@@ -44,7 +44,7 @@ leer_nbib <- function(path) {
   autores <- if (length(autores_all) > 0) paste(autores_all, collapse = ", ") else "No disponible"
   
   resumen <- get_single("AB")
-  
+
   doi_line <- grep("(doi: 10\\.|10\\.\\d+/.*\\[doi\\])", lineas, value = TRUE)
   enlace_doi <- NA
   if (length(doi_line) > 0) {
