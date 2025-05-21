@@ -1,36 +1,39 @@
 ---
-title: "About"
-format: html
+title: "Sobre el grupo"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    page-layout: full
+    theme: cosmo
+    css: styles.css
 ---
 
-# Acerca del Instituto Josep Carreras
+![](imagenes/VavouriLab.jpg)
 
-El Instituto de Investigación Josep Carreras es una de las instituciones líderes en la lucha contra la leucemia. Fundado en 2010, nuestro objetivo es avanzar en la investigación médica y científica para el tratamiento de la leucemia y otras enfermedades hematológicas.
+## Introducción
 
-Nuestro equipo de científicos y médicos está comprometido con el desarrollo de nuevas terapias y tratamientos que puedan mejorar la calidad de vida de los pacientes y aumentar las tasas de curación de estas enfermedades.
+La regulación de la expresión génica es el perfeccionamiento de la síntesis del producto funcional de los genes y es uno de los procesos más esenciales para la vida. Se trata del proceso que hace que diferentes tipos de células tengan diferentes propiedades y permite diferenciar las células sanas de las no sanas. La expresión génica es regulada por señales internas (actividad de otros genes, mutaciones, etc.) y por señales externas (dieta, temperatura, terapias farmacológicas, etc.).
 
-## Misión
+## Nuestra investigación
 
-La misión del Instituto Josep Carreras es proporcionar investigación de vanguardia para comprender mejor las leucemias, desarrollar nuevas terapias y contribuir a la salvación de vidas. Trabajamos incansablemente para mejorar el tratamiento y la cura de la leucemia y ofrecer esperanza a las personas afectadas.
+Nuestra investigación se centra en tres áreas principales:
 
-## Visión
+1.  En primer lugar, estudiamos el efecto del entorno sobre los cambios en la expresión génica que se transmiten de padres a hijos. Buscamos comprender cómo la información sobre nuestra exposición a diferentes entornos se pueda codificar en moléculas (distintas del ADN) en el interior de células que se transmiten entre generaciones.
 
-Queremos ser un referente internacional en la investigación y tratamiento de la leucemia, estableciendo alianzas con otros centros de investigación y contribuyendo al avance de la medicina en todo el mundo.
+2.  En segundo lugar, trabajamos con ARN no codificantes y otros elementos no codificantes que influyen en la expresión génica. Estamos interesados en establecer qué elementos no codificantes afectan a la expresión génica y cómo lo hacen.
 
-## Valores
+3.  Finalmente, buscamos comprender cómo afectan los fármacos epigenéticos a la expresión génica y la cromatina en diferentes contextos genómicos. Entre los fármacos epigenéticos que se emplean actualmente en el ámbito clínico se incluyen los utilizados para el tratamiento de pacientes con leucemia mieloide aguda y síndrome mielodisplásico. Un conocimiento más en profundidad de los efectos de estos fármacos y de cómo funcionan permitiría mejorar los tratamientos y lograr una medicina más personalizada con vistas al futuro.
 
-Compromiso con la investigación.
+## Nuestros objetivos
 
-Innovación en tratamientos.
+Nuestro objetivo es contribuir a una mayor comprensión de la regulación génica y de las consecuencias en la expresión génica de los tratamientos farmacológicos y de la variación genética entre individuos. Aunque la mayor parte de nuestra investigación se basa en datos obtenidos en modelos animales o líneas celulares, esperamos que, a largo plazo, los conocimientos adquiridos mejorarán nuestra comprensión de lo que sucede en humanos. En el cáncer es extremadamente común que se produzca una extensa expresión génica aberrante y una gran desregulación del genoma, especialmente en los cánceres de tipo hematológico, que ya están siendo tratados con terapias dirigidas a las vías de regulación génica. Por último, pero no por ello menos importante, esperamos que los datos que obtengamos y los métodos de análisis que desarrollemos sirvan como herramientas útiles a una comunidad investigadora más amplia.
 
-Colaboración con la comunidad médica.
+## Nuestros retos
 
-Compasión hacia los pacientes.
+Esperamos que nuestra investigación arroje luz sobre las siguientes cuestiones:
 
-## Nuestro equipo
-
-Contamos con un equipo multidisciplinario de investigadores, médicos y personal de apoyo que trabajan juntos para hacer realidad nuestras metas.
-
-## ¿Cómo puedes ayudar?
-
-Puedes contribuir al Instituto de Investigación Josep Carreras a través de donaciones y apoyo en proyectos de investigación. Tu ayuda es fundamental para seguir luchando contra la leucemia y ofreciendo esperanza a millones de personas.
+-   ¿Qué mecanismos epigenéticos están implicados en la transmisión entre generaciones de los rasgos adquiridos o variables tanto en humanos como en otros animales?
+-   ¿Qué elementos no codificantes del ADN afectan a la expresión génica y, por tanto, potencialmente al fenotipo?
+-   ¿Cómo afectan los fármacos (como los empleados para el tratamiento de cánceres sanguíneos) a la expresión génica y a la función de las partes no codificantes de nuestro genoma?
