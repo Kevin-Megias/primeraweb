@@ -10,8 +10,6 @@ format:
     css: styles.css
 ---
 
-![](imagenes/VavouriLab.jpg)
-
 ## Introducción
 
 La regulación de la expresión génica es el perfeccionamiento de la síntesis del producto funcional de los genes y es uno de los procesos más esenciales para la vida. Se trata del proceso que hace que diferentes tipos de células tengan diferentes propiedades y permite diferenciar las células sanas de las no sanas. La expresión génica es regulada por señales internas (actividad de otros genes, mutaciones, etc.) y por señales externas (dieta, temperatura, terapias farmacológicas, etc.).
