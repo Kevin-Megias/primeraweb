@@ -38,10 +38,8 @@ Esperamos que nuestra investigación arroje luz sobre las siguientes cuestiones:
 -   ¿Qué elementos no codificantes del ADN afectan a la expresión génica y, por tanto, potencialmente al fenotipo?
 -   ¿Cómo afectan los fármacos (como los empleados para el tratamiento de cánceres sanguíneos) a la expresión génica y a la función de las partes no codificantes de nuestro genoma?
 
-+:-----------------------------------------------+-----------------------------------+
-| ![](imagenes/Tanya%20Vavouri.jpg){width="160"} | Tanya Vavouri                     |
-+------------------------------------------------+-----------------------------------+
-| ![](imagenes/Adria.jpg){width="160"}           | Adria                             |
-+------------------------------------------------+-----------------------------------+
-| ![](imagenes/Kevin%20Megias.jpg){width="160"}  | Kevin Megias Alvarez              |
-+------------------------------------------------+-----------------------------------+
+|                                                |                      |
+|:-----------------------------------------------|----------------------|
+| ![](imagenes/Tanya%20Vavouri.jpg){width="160"} | Tanya Vavouri        |
+| ![](imagenes/Adria.jpg){width="160"}           | Adrià Mitjavila      |
+| ![](imagenes/Kevin%20Megias.jpg){width="160"}  | Kevin Megias Alvarez |
