@@ -1,32 +1,30 @@
-/* css styles */
+
 h1,h2,h3,h4,h5,h6 {
   color: #64e5f4 !important;
 }
 
-/* Cambiar el fondo de la barra de navegación a verde claro */
+
 .navbar {
-  background-color: #8bc34a !important; /* Fondo verde claro */
+  background-color: #8bc34a !important; 
 }
 
-/* Cambiar el color del texto de los enlaces de navegación */
+
 .navbar .navbar-nav .nav-link {
-  color: white !important; /* Texto blanco */
+  color: white !important; 
 }
 
-/* Efecto hover para los enlaces */
 .navbar .navbar-nav .nav-link:hover {
-  background-color: #64e5f4; /* Fondo celeste cuando se pasa el ratón */
-  color: #fff !important; /* Asegura que el texto sea blanco al pasar el mouse */
+  background-color: #64e5f4; 
+  color: #fff !important;
 }
 
 
-/* Hacer que la página aproveche mejor el ancho */
 .page {
   max-width: 100%;
   padding: 0 1rem;
 }
 
-/* Ajustar main para mejor lectura */
+
 main {
   max-width: 1200px;
   margin: 0 auto;
@@ -38,10 +36,10 @@ img {
   height: auto;
   display: block;
   margin: 1em auto;
-  max-height: 500px; /* Máxima altura */
+  max-height: 500px; 
 }
 
-/* Correcciones para pantallas pequeñas */
+
 @media (max-width: 768px) {
   main {
     max-width: 95%;
