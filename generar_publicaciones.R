@@ -34,7 +34,7 @@ leer_nbib <- function(path) {
     }
   }
   
-  
+
   titulo <- get_single("TI")
   if (is.na(titulo)) return(NULL)
   
@@ -43,8 +43,9 @@ leer_nbib <- function(path) {
   autores_all <- unique(c(autores_fau, autores_au))
   autores <- if (length(autores_all) > 0) paste(autores_all, collapse = ", ") else "No disponible"
   
-  resumen <- get_single("AB")
-
+ 
+   resumen <- get_single("AB")      
+  
   doi_line <- grep("(doi: 10\\.|10\\.\\d+/.*\\[doi\\])", lineas, value = TRUE)
   enlace_doi <- NA
   if (length(doi_line) > 0) {
@@ -56,7 +57,7 @@ leer_nbib <- function(path) {
     doi_clean <- sub("\\.(?=\\s|$)", "", doi_raw, perl = TRUE)
     enlace_doi <- paste0("https://doi.org/", doi_clean)
   }
-  
+   
   pmid_line <- grep("^PMID- ", lineas, value = TRUE)
   enlace_pmid <- NA
   if (length(pmid_line) > 0) {

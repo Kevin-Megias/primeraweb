@@ -10,6 +10,8 @@ format:
     css: styles.css
 ---
 
+![](imagenes/grupo.jpeg){width="618"}
+
 ## Introducción
 
 La regulación de la expresión génica es el perfeccionamiento de la síntesis del producto funcional de los genes y es uno de los procesos más esenciales para la vida. Se trata del proceso que hace que diferentes tipos de células tengan diferentes propiedades y permite diferenciar las células sanas de las no sanas. La expresión génica es regulada por señales internas (actividad de otros genes, mutaciones, etc.) y por señales externas (dieta, temperatura, terapias farmacológicas, etc.).
@@ -35,3 +37,11 @@ Esperamos que nuestra investigación arroje luz sobre las siguientes cuestiones:
 -   ¿Qué mecanismos epigenéticos están implicados en la transmisión entre generaciones de los rasgos adquiridos o variables tanto en humanos como en otros animales?
 -   ¿Qué elementos no codificantes del ADN afectan a la expresión génica y, por tanto, potencialmente al fenotipo?
 -   ¿Cómo afectan los fármacos (como los empleados para el tratamiento de cánceres sanguíneos) a la expresión génica y a la función de las partes no codificantes de nuestro genoma?
+
++:-----------------------------------------------+-----------------------------------+
+| ![](imagenes/Tanya%20Vavouri.jpg){width="160"} | Tanya Vavour                      |
++------------------------------------------------+-----------------------------------+
+| ![](imagenes/Adria.jpg){width="160"}           | Adria                             |
++------------------------------------------------+-----------------------------------+
+| ![](imagenes/Kevin%20Megias.jpg){width="160"}  | Kevin Megias Alvarez              |
++------------------------------------------------+-----------------------------------+
